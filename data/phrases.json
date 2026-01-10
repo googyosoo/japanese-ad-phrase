@@ -1,0 +1,2862 @@
+[
+  {
+    "id": 1,
+    "japanese": "生まれる 泣く 歩く 笑う 語る 立ち止まる 叫ぶ 出会う 別れる 繋がる 生まれる 人 は 人生 で 何 文字 の 言葉 を 書き たく なる ん だろう",
+    "korean": "태어나다 울다 걷다 웃다 말하다 멈춰서다 외치다 만나다 헤어지다 이어지다 태어나다 사람은 인생에서 몇 글자의 말을 쓰고 싶어지는 걸까",
+    "english": "Born, cry, walk, laugh, speak, stop, shout, meet, part, connect, born again. How many words does a person want to write in their lifetime?",
+    "words": [
+      {
+        "word": "生まれる",
+        "reading": "うまれる",
+        "meaning": "태어나다 / to be born"
+      },
+      {
+        "word": "立ち止まる",
+        "reading": "たちどまる",
+        "meaning": "멈춰 서다 / to stop, to stand still"
+      },
+      {
+        "word": "繋がる",
+        "reading": "つながる",
+        "meaning": "연결되다, 이어지다 / to be connected"
+      },
+      {
+        "word": "人生",
+        "reading": "じんせい",
+        "meaning": "인생 / life"
+      },
+      {
+        "word": "言葉",
+        "reading": "ことば",
+        "meaning": "말, 언어 / words, language"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 2,
+    "japanese": "今 も 覚え て いる 先生 の 一言 は どれ も 教科 書 に 乗っ て い なかっ た こと でし た。英語 の 先生 が 教え て くれ た こと、ラブ と ライク の 違い 数学 の 先生 が 教え て くれ た こと が ない 人生 の 問題 国語 の 先生 が 教え て くれ た こと 絵 文字 に よる 感情 の 伝え 方",
+    "korean": "지금도 기억하고 있는 선생님의 한마디는 모두 교과서에 실려 있지 않은 것들이었습니다. 영어 선생님이 가르쳐 준 것, 사랑과 좋아함의 차이. 수학 선생님이 가르쳐 준 정답이 없는 인생의 문제. 국어 선생님이 가르쳐 준 이모티콘으로 감정을 전하는 방법.",
+    "english": "The words from teachers I still remember were never in textbooks. What the English teacher taught: the difference between love and like. What the math teacher taught: life problems with no answers. What the Japanese teacher taught: how to express emotions with emoji.",
+    "words": [
+      {
+        "word": "覚える",
+        "reading": "おぼえる",
+        "meaning": "기억하다 / to remember"
+      },
+      {
+        "word": "一言",
+        "reading": "ひとこと",
+        "meaning": "한마디 / a word, a single remark"
+      },
+      {
+        "word": "教科書",
+        "reading": "きょうかしょ",
+        "meaning": "교과서 / textbook"
+      },
+      {
+        "word": "違い",
+        "reading": "ちがい",
+        "meaning": "차이 / difference"
+      },
+      {
+        "word": "感情",
+        "reading": "かんじょう",
+        "meaning": "감정 / emotion"
+      },
+      {
+        "word": "伝え方",
+        "reading": "つたえかた",
+        "meaning": "전하는 방법 / way of conveying"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 3,
+    "japanese": "失敗 を 恐れ て は なら ない。傷つく こと から 逃げ ない。運命 を 変える の も あり じゃ ない か。この世 に 生きる。今 を 見つめる。何か を 果たす。必要 な の は 自ら の 手 で 未来 を 作る その 意思。生き た 証 は 自分 で 刻ん で いく しか ない。",
+    "korean": "실패를 두려워하지 마라. 상처받는 것에서 도망치지 마라. 운명을 바꾸는 것도 괜찮지 않은가. 이 세상에 살다. 지금을 바라보다. 무언가를 이루다. 필요한 것은 스스로의 손으로 미래를 만드는 그 의지. 살아온 증거는 스스로 새겨가는 수밖에 없다.",
+    "english": "Don't fear failure. Don't run from being hurt. Isn't it okay to change your destiny? Live in this world. Look at the present. Accomplish something. What you need is the will to create the future with your own hands. The proof of living can only be carved by yourself.",
+    "words": [
+      {
+        "word": "失敗",
+        "reading": "しっぱい",
+        "meaning": "실패 / failure"
+      },
+      {
+        "word": "恐れる",
+        "reading": "おそれる",
+        "meaning": "두려워하다 / to fear"
+      },
+      {
+        "word": "運命",
+        "reading": "うんめい",
+        "meaning": "운명 / fate, destiny"
+      },
+      {
+        "word": "意思",
+        "reading": "いし",
+        "meaning": "의지 / will, intention"
+      },
+      {
+        "word": "証",
+        "reading": "あかし",
+        "meaning": "증거 / proof"
+      },
+      {
+        "word": "刻む",
+        "reading": "きざむ",
+        "meaning": "새기다 / to carve, to engrave"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 4,
+    "japanese": "あなた に 期待 し て ください。変化 を 起こそう。昨日 と 同じ は つまら ない から。自ら 動こう。周り も 世の中 も 動き出す から。勇敢 に 行こう。失敗 すら も 糧 に なる から。自信 を 持とう。いい 顔 に なる から。世界 に 挑もう チャンス が 人生 が 広がる から。",
+    "korean": "당신에게 기대해 주세요. 변화를 일으키자. 어제와 같은 건 재미없으니까. 스스로 움직이자. 주변도 세상도 움직이기 시작하니까. 용감하게 가자. 실패조차도 양분이 되니까. 자신감을 갖자. 좋은 표정이 되니까. 세계에 도전하자 기회가, 인생이 넓어지니까.",
+    "english": "Have expectations for yourself. Let's make changes. Because being the same as yesterday is boring. Move on your own. Because the world around you will start moving too. Go bravely. Because even failure becomes nourishment. Have confidence. Because it makes you look good. Challenge the world because opportunities and life will expand.",
+    "words": [
+      {
+        "word": "期待",
+        "reading": "きたい",
+        "meaning": "기대 / expectation"
+      },
+      {
+        "word": "変化",
+        "reading": "へんか",
+        "meaning": "변화 / change"
+      },
+      {
+        "word": "勇敢",
+        "reading": "ゆうかん",
+        "meaning": "용감한 / brave"
+      },
+      {
+        "word": "糧",
+        "reading": "かて",
+        "meaning": "양분, 밑거름 / nourishment"
+      },
+      {
+        "word": "自信",
+        "reading": "じしん",
+        "meaning": "자신감 / confidence"
+      },
+      {
+        "word": "挑む",
+        "reading": "いどむ",
+        "meaning": "도전하다 / to challenge"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 5,
+    "japanese": "そう いえ ば 最後 に ちゃんと 映画 を 見 た の は いつ だろう？120 分間 ドキドキ し た の は いつ だろう？誰 も が 生き 方 を 見つめ直す 今。大人 こそ もっと 無駄 な 時間 を 愛し て いい。それ が 日々 の 豊か さ に つがる から。人生 に 無駄 な 時間 を",
+    "korean": "그러고 보니 마지막으로 제대로 영화를 본 게 언제였을까? 120분 동안 두근두근한 게 언제였을까? 모두가 삶의 방식을 다시 돌아보는 지금. 어른이야말로 더 쓸데없는 시간을 사랑해도 된다. 그것이 일상의 풍요로움으로 이어지니까. 인생에 쓸데없는 시간을",
+    "english": "Come to think of it, when was the last time I properly watched a movie? When did I feel excited for 120 minutes? Now that everyone is reconsidering their way of living. Adults should love wasteful time more. Because it leads to the richness of daily life. Give life some wasteful time.",
+    "words": [
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "meaning": "영화 / movie"
+      },
+      {
+        "word": "ドキドキ",
+        "reading": "どきどき",
+        "meaning": "두근두근 / heart pounding"
+      },
+      {
+        "word": "見つめ直す",
+        "reading": "みつめなおす",
+        "meaning": "다시 돌아보다 / to reconsider"
+      },
+      {
+        "word": "無駄",
+        "reading": "むだ",
+        "meaning": "쓸데없는, 낭비 / waste, useless"
+      },
+      {
+        "word": "豊かさ",
+        "reading": "ゆたかさ",
+        "meaning": "풍요로움 / richness"
+      },
+      {
+        "word": "日々",
+        "reading": "ひび",
+        "meaning": "날마다, 매일 / daily, every day"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 6,
+    "japanese": "照らす、熱する、伝える、歌わ せる。電気 は その 姿 を 動詞 に 変え て 人々 の 今日 を 作っ て いる。電気 を 動詞 に なれ。",
+    "korean": "비추다, 데우다, 전하다, 노래하게 하다. 전기는 그 모습을 동사로 바꾸어 사람들의 오늘을 만들고 있다. 전기를 동사로 만들자.",
+    "english": "Illuminate, heat, transmit, make sing. Electricity transforms into verbs to create people's today. Let electricity become a verb.",
+    "words": [
+      {
+        "word": "照らす",
+        "reading": "てらす",
+        "meaning": "비추다 / to illuminate"
+      },
+      {
+        "word": "熱する",
+        "reading": "ねっする",
+        "meaning": "데우다, 가열하다 / to heat"
+      },
+      {
+        "word": "電気",
+        "reading": "でんき",
+        "meaning": "전기 / electricity"
+      },
+      {
+        "word": "姿",
+        "reading": "すがた",
+        "meaning": "모습 / form, figure"
+      },
+      {
+        "word": "動詞",
+        "reading": "どうし",
+        "meaning": "동사 / verb"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 7,
+    "japanese": "花 に は 水 が いる。さよなら に は スマイル が いる。露天 風呂 に は 月 が いる。サッカー に は 奇跡 が いる。アクセル に は ブレーキ が いる。悪い パパ に は 良い ママ が いる。明日 に は 今日 が いる。人生 に は ニュース が いる。",
+    "korean": "꽃에는 물이 필요하다. 이별에는 미소가 필요하다. 노천탕에는 달이 필요하다. 축구에는 기적이 필요하다. 액셀에는 브레이크가 필요하다. 나쁜 아빠에게는 좋은 엄마가 필요하다. 내일에는 오늘이 필요하다. 인생에는 뉴스가 필요하다.",
+    "english": "Flowers need water. Goodbyes need smiles. Open-air baths need the moon. Soccer needs miracles. Accelerators need brakes. Bad dads need good moms. Tomorrow needs today. Life needs news.",
+    "words": [
+      {
+        "word": "さよなら",
+        "reading": "さよなら",
+        "meaning": "안녕, 작별 / goodbye"
+      },
+      {
+        "word": "露天風呂",
+        "reading": "ろてんぶろ",
+        "meaning": "노천탕 / open-air bath"
+      },
+      {
+        "word": "奇跡",
+        "reading": "きせき",
+        "meaning": "기적 / miracle"
+      },
+      {
+        "word": "アクセル",
+        "reading": "あくせる",
+        "meaning": "액셀 / accelerator"
+      },
+      {
+        "word": "ブレーキ",
+        "reading": "ぶれーき",
+        "meaning": "브레이크 / brake"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 8,
+    "japanese": "君 を 楽しめ。人生 を 全力 で 楽しむ。体中 から その メッセージ を 放つ。楽しむ ため に は パワー が いる。新しい 地 へ 踏み出す 勇気 が いる。だ けど 自ら が 夢中 に なれる その 先 で こそ 君 の 才能 は 炸裂 する はず だ。飛び込もう 未来へ",
+    "korean": "너 자신을 즐겨라. 인생을 전력으로 즐겨라. 온몸으로 그 메시지를 발산하라. 즐기기 위해서는 힘이 필요하다. 새로운 땅으로 내딛는 용기가 필요하다. 하지만 스스로 열중할 수 있는 그 끝에서야말로 너의 재능은 폭발할 것이다. 미래로 뛰어들자",
+    "english": "Enjoy yourself. Enjoy life with all your might. Radiate that message from your whole body. Enjoying requires power. It requires courage to step into new lands. But it's at the end of what you can be passionate about that your talent will explode. Let's dive into the future.",
+    "words": [
+      {
+        "word": "楽しむ",
+        "reading": "たのしむ",
+        "meaning": "즐기다 / to enjoy"
+      },
+      {
+        "word": "全力",
+        "reading": "ぜんりょく",
+        "meaning": "전력, 최선 / full power"
+      },
+      {
+        "word": "踏み出す",
+        "reading": "ふみだす",
+        "meaning": "내딛다 / to step forward"
+      },
+      {
+        "word": "夢中",
+        "reading": "むちゅう",
+        "meaning": "열중, 몰두 / absorbed, engrossed"
+      },
+      {
+        "word": "才能",
+        "reading": "さいのう",
+        "meaning": "재능 / talent"
+      },
+      {
+        "word": "炸裂",
+        "reading": "さくれつ",
+        "meaning": "폭발 / explosion"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 9,
+    "japanese": "小さな欲望を大切に。誰かに 5mm 嫉妬されたい。その才能を認められたい。欲望は言葉に支えられている。なりたいを言葉にしよう。目覚めよう。欲望がなければ努力もないのだし。",
+    "korean": "작은 욕망을 소중히. 누군가에게 5mm 질투받고 싶다. 그 재능을 인정받고 싶다. 욕망은 말에 의해 지탱된다. 되고 싶은 것을 말로 해보자. 깨어나자. 욕망이 없으면 노력도 없으니까.",
+    "english": "Cherish small desires. I want someone to be 5mm jealous of me. I want my talent to be recognized. Desire is supported by words. Put your aspirations into words. Awaken. Without desire, there is no effort.",
+    "words": [
+      {
+        "word": "欲望",
+        "reading": "よくぼう",
+        "meaning": "욕망 / desire"
+      },
+      {
+        "word": "嫉妬",
+        "reading": "しっと",
+        "meaning": "질투 / jealousy"
+      },
+      {
+        "word": "認める",
+        "reading": "みとめる",
+        "meaning": "인정하다 / to recognize"
+      },
+      {
+        "word": "支える",
+        "reading": "ささえる",
+        "meaning": "지탱하다 / to support"
+      },
+      {
+        "word": "目覚める",
+        "reading": "めざめる",
+        "meaning": "깨어나다 / to awaken"
+      },
+      {
+        "word": "努力",
+        "reading": "どりょく",
+        "meaning": "노력 / effort"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 10,
+    "japanese": "人 は 誰 で も 心 の 中 に 自分 だけ の 火 を 持っ て いる。絶望 の 暗闇 に 立っ た 時、その 火 は 自分 を 温め 進む べき 道 を 照らし て くれる。心 に 火 を",
+    "korean": "사람은 누구나 마음속에 자신만의 불을 가지고 있다. 절망의 어둠 속에 섰을 때, 그 불은 자신을 따뜻하게 하고 나아갈 길을 비춰준다. 마음에 불을",
+    "english": "Everyone has their own fire in their heart. When you stand in the darkness of despair, that fire warms you and illuminates the path you should take. Keep fire in your heart.",
+    "words": [
+      {
+        "word": "心",
+        "reading": "こころ",
+        "meaning": "마음 / heart"
+      },
+      {
+        "word": "火",
+        "reading": "ひ",
+        "meaning": "불 / fire"
+      },
+      {
+        "word": "絶望",
+        "reading": "ぜつぼう",
+        "meaning": "절망 / despair"
+      },
+      {
+        "word": "暗闇",
+        "reading": "くらやみ",
+        "meaning": "어둠 / darkness"
+      },
+      {
+        "word": "温める",
+        "reading": "あたためる",
+        "meaning": "따뜻하게 하다 / to warm"
+      },
+      {
+        "word": "照らす",
+        "reading": "てらす",
+        "meaning": "비추다 / to illuminate"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 11,
+    "japanese": "人生 は 選択 の 連続 だ 。 些細 な こと から 一生 を 左右 する よう な 大きな こと まで 自分 で 選ん で き た もの の 積み重ね で 私 の 心 は でき て いる 。 私 の 体 は でき て いる 。 私 は 私 らしく い られる 。 選ん で き た もの が 私 。",
+    "korean": "인생은 선택의 연속이다. 사소한 것부터 일생을 좌우할 만한 큰일까지. 내가 선택해 온 것들의 축적으로 내 마음은 이루어져 있다. 내 몸은 이루어져 있다. 나는 나답게 있을 수 있다. 선택해 온 것이 바로 나.",
+    "english": "Life is a series of choices. From trivial matters to major decisions that shape a lifetime. My heart is made of the accumulation of my choices. My body is made of them. I can be myself. What I have chosen is me.",
+    "words": [
+      {
+        "word": "選択",
+        "reading": "せんたく",
+        "meaning": "선택 / choice"
+      },
+      {
+        "word": "連続",
+        "reading": "れんぞく",
+        "meaning": "연속 / continuity"
+      },
+      {
+        "word": "積み重ね",
+        "reading": "つみかさね",
+        "meaning": "축적, 쌓음 / accumulation"
+      },
+      {
+        "word": "左右する",
+        "reading": "さゆうする",
+        "meaning": "좌우하다 / influence, determine"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 12,
+    "japanese": "いちいち 泣い て い られ ない から いちいち 忘れる 。 大人 は 長い 。 似 てる ところ を 探し て 似 て ない ところ を 好き に なる 。 大人 は 長い 。 自由 は 1人 に なる こと じゃ なく て 、 誰 と い て も 自分 で い られる こと だっ たり し て 大人 は 長い 。 ます 。",
+    "korean": "일일이 울고 있을 수 없으니까 일일이 잊는다. 어른은 길다. 닮은 점을 찾고 닮지 않은 점을 좋아하게 된다. 어른은 길다. 자유란 혼자가 되는 것이 아니라, 누구와 있어도 나 자신으로 있을 수 있는 것이기도 해서 어른은 길다.",
+    "english": "I can't cry over everything, so I forget everything. Adulthood is long. Finding similarities and loving differences. Adulthood is long. Freedom isn't about being alone, but being yourself with anyone. Adulthood is long.",
+    "words": [
+      {
+        "word": "いちいち",
+        "reading": "いちいち",
+        "meaning": "일일이 / one by one, everything"
+      },
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "meaning": "잊다 / forget"
+      },
+      {
+        "word": "大人",
+        "reading": "おとな",
+        "meaning": "어른 / adult"
+      },
+      {
+        "word": "似ている",
+        "reading": "にている",
+        "meaning": "닮다 / resemble"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 13,
+    "japanese": "時間 が 流れる 。 景色 が 流れる 。 見 た こと の ない 景色 も 懐かしい 景色 も 人 が 見 たい と 思う ところ へ どこ へ で も 旅 は 続く 物語 は 続く どこ まで も どこ まで も",
+    "korean": "시간이 흐른다. 풍경이 흐른다. 본 적 없는 풍경도 그리운 풍경도, 사람이 보고 싶다고 생각하는 곳 어디로든 여행은 계속된다. 이야기는 계속된다. 어디까지나, 어디까지나.",
+    "english": "Time flows. Scenery flows. Unseen landscapes, nostalgic view. To wherever people want to see, the journey continues. The story continues. Endlessly, endlessly.",
+    "words": [
+      {
+        "word": "流れる",
+        "reading": "ながれる",
+        "meaning": "흐르다 / flow"
+      },
+      {
+        "word": "景色",
+        "reading": "けしき",
+        "meaning": "풍경 / scenery"
+      },
+      {
+        "word": "懐かしい",
+        "reading": "なつかしい",
+        "meaning": "그리운 / nostalgic"
+      },
+      {
+        "word": "旅",
+        "reading": "たび",
+        "meaning": "여행 / journey"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 14,
+    "japanese": "人 は 忘れる 。 人 は 忘れ なけれ ば 生き て いけ ない けれど 忘れ たく ない こと が なけれ ば 生き て いる 楽しみ は ない 。 あなた に は 忘れ たく ない こと が いく つ あり ます か ?",
+    "korean": "사람은 잊는다. 사람은 잊지 않으면 살아갈 수 없지만, 잊고 싶지 않은 것이 없다면 살아가는 즐거움은 없다. 당신에게는 잊고 싶지 않은 것이 몇 개나 있나요?",
+    "english": "People forget. We cannot live without forgetting, but without things we don't want to forget, there is no joy in living. How many things do you have that you don't want to forget?",
+    "words": [
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "meaning": "잊다 / forget"
+      },
+      {
+        "word": "生きる",
+        "reading": "いきる",
+        "meaning": "살다 / live"
+      },
+      {
+        "word": "楽しみ",
+        "reading": "たのしみ",
+        "meaning": "즐거움 / joy, pleasure"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 15,
+    "japanese": "人生 傷つく 時 も ある 。 人生 泣き たい 時 も ある 。 そんな 時 は 、 ま 、 さっさと 忘れ て スキップ しよう 。 誰 が なんて 言おう と 人生 は 素晴らしい 。 みんな で 言おう 。 この世 は 悪く ない 。 愛 を 語ろう 。 手 を 繋ごう 。 焦ら ず 笑っ で 前 向い て 人生 は 夢 だらけ 。",
+    "korean": "인생, 상처받을 때도 있다. 인생, 울고 싶을 때도 있다. 그럴 때는, 뭐, 얼른 잊고 스킵하자. 누가 뭐라 해도 인생은 멋지다. 다 함께 말하자. 이 세상은 나쁘지 않다. 사랑을 말하자. 손을 잡자. 조급해하지 말고 웃으며 앞을 향해. 인생은 꿈투성이.",
+    "english": "Life has times of hurt. Life has times you want to cry. In such times, well, forget it quickly and skip ahead. No matter what anyone says, life is wonderful. Let's say it together. This world isn't bad. Let's talk of love. Let's hold hands. Don't rush, smile, look forward. Life is full of dreams.",
+    "words": [
+      {
+        "word": "傷つく",
+        "reading": "きずつく",
+        "meaning": "상처받다 / get hurt"
+      },
+      {
+        "word": "素晴らしい",
+        "reading": "すばらしい",
+        "meaning": "훌륭하다 / wonderful"
+      },
+      {
+        "word": "焦る",
+        "reading": "あせる",
+        "meaning": "조급해하다 / rush, panic"
+      },
+      {
+        "word": "夢だらけ",
+        "reading": "ゆめだらけ",
+        "meaning": "꿈투성이 / full of dreams"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 16,
+    "japanese": "強い 時 の 自分 より 弱い 時 の 自分 の 方 が 本当 の 自分 な の か も しれ ない 。 嘘 を つく 自分 より 正直 な 自分 の 方 が 人 を 傷つけ たり する 。 今日 の 自分 は 今 だけ の 自分 。 明日 の 自分 は また きっと 違う 。 自分 を 壊す 。 自分 を 作る 。 誰 か と 出会っ て また 自分 が 生まれる 。 答え は 1 つ じゃ ない 。",
+    "korean": "강할 때의 자신보다 약할 때의 자신이 진짜 자신일지도 모른다. 거짓말하는 자신보다 솔직한 자신이 남을 상처 입히기도 한다. 오늘의 나는 지금만의 나. 내일의 나는 또 분명 다르다. 나를 부수다. 나를 만들다. 누군가와 만나 또 내가 태어난다. 답은 하나가 아니다.",
+    "english": "The weak self might be more real than the strong self. The honest self might hurt others more than the lying self. Today's me is just for now. Tomorrow's me will surely be different. Break myself. Create myself. Meet someone and be born again. There isn't just one answer.",
+    "words": [
+      {
+        "word": "強い",
+        "reading": "つよい",
+        "meaning": "강하다 / strong"
+      },
+      {
+        "word": "弱い",
+        "reading": "よわい",
+        "meaning": "약하다 / weak"
+      },
+      {
+        "word": "正直",
+        "reading": "しょうじき",
+        "meaning": "솔직함 / honest"
+      },
+      {
+        "word": "壊す",
+        "reading": "こわす",
+        "meaning": "부수다 / break"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 17,
+    "japanese": "人 と 人 が 出会う 。 とても シンプル な こと だ けど そこ から 人生 の 全て が 始まっ て いる 。 出会い の 数 だけ 乾杯 は ある 。 丸く なる な 。 星 に なれ 。 人生 に 乾杯 。",
+    "korean": "사람과 사람이 만난다. 아주 단순한 일이지만 거기서 인생의 모든 것이 시작되고 있다. 만남의 수만큼 건배가 있다. 둥글어지지 마라. 별이 되어라. 인생에 건배.",
+    "english": "People meet people. It's very simple, but everything in life starts there. There are as many toasts as there are meetings. Don't become round (complacent). Be a star. Cheers to life.",
+    "words": [
+      {
+        "word": "出会う",
+        "reading": "であう",
+        "meaning": "만나다 / meet"
+      },
+      {
+        "word": "乾杯",
+        "reading": "かんぱい",
+        "meaning": "건배 / cheers"
+      },
+      {
+        "word": "丸くなる",
+        "reading": "まるくなる",
+        "meaning": "둥글어지다(성격이) / become mellow/round"
+      },
+      {
+        "word": "星",
+        "reading": "ほし",
+        "meaning": "별 / star"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 18,
+    "japanese": "全て の 人生 が 素晴らしい 。 世界 は 広い 。 道 は いく つ だっ て ある はず だ 。 どこ を 走っ て も いい はず だ 。 君 が まだ 出会っ て い ない 世界 は とてつ も なく 広い 。 人生 の ゴール は 1 つ じゃ ない 。 人生 の コース は 1 つ じゃ ない 。 それ は 人間 の 数 だけ ある 。 君 だけ の 人生 を 走れ 。",
+    "korean": "모든 인생이 훌륭하다. 세상은 넓다. 길은 얼마든지 있을 것이다. 어디를 달려도 좋을 것이다. 네가 아직 만나지 못한 세상은 터무니없이 넓다. 인생의 골은 하나가 아니다. 인생의 코스는 하나가 아니다. 그것은 사람의 수만큼 있다. 너만의 인생을 달려라.",
+    "english": "Every life is wonderful. The world is wide. There must be countless paths. You can run anywhere. The world you haven't met yet is incredibly vast. Life's finish line isn't just one. Life's course isn't just one. There are as many as there are people. Run your own life.",
+    "words": [
+      {
+        "word": "人生",
+        "reading": "じんせい",
+        "meaning": "인생 / life"
+      },
+      {
+        "word": "広い",
+        "reading": "ひろい",
+        "meaning": "넓다 / wide"
+      },
+      {
+        "word": "ゴール",
+        "reading": "ごーる",
+        "meaning": "골, 목표 / goal"
+      },
+      {
+        "word": "走る",
+        "reading": "はしる",
+        "meaning": "달리다 / run"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 19,
+    "japanese": "桜 が こう し て 見事 に 咲く まで に は 必ず 長い 冬 を こさ なく て は なり ませ ん 。 そんな 運命 が この 国 の 花 たち を ますます 美しく し て いる ん じゃ ない だろう か 。 そう 思う と 心 から 拍手 を 送り たく なり ます 。 そう だ 。 京都 行こう 。",
+    "korean": "벚꽃이 이렇게 멋지게 피기까지는 반드시 긴 겨울을 넘겨야만 합니다. 그런 운명이 이 나라의 꽃들을 더욱 아름답게 하고 있는 건 아닐까요. 그렇게 생각하면 진심으로 박수를 보내고 싶어집니다. 그렇다. 교토에 가자.",
+    "english": "For cherry blossoms to bloom so magnificently, they must endure a long winter. Perhaps that destiny makes this country's flowers even more beautiful. Thinking so, I want to applaud from my heart. Yes. Let's go to Kyoto.",
+    "words": [
+      {
+        "word": "桜",
+        "reading": "さくら",
+        "meaning": "벚꽃 / cherry blossom"
+      },
+      {
+        "word": "咲く",
+        "reading": "さく",
+        "meaning": "피다 / bloom"
+      },
+      {
+        "word": "冬",
+        "reading": "ふゆ",
+        "meaning": "겨울 / winter"
+      },
+      {
+        "word": "拍手",
+        "reading": "はくしゅ",
+        "meaning": "박수 / applause"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 20,
+    "japanese": "僕 の こと を 分かっ た 風 に 言う な 。 僕 ら は 僕 ら 以外 に は なれ ない が 、 僕 ら は 僕 ら 以上 に なっ て いく 。 今日 の 迷い 、 今日 の 選択 、 今日 の 感動 。 繰り返し 、 繰り返し 。 僕 ら は 新しく 形作ら れる 。 そして 何 度 で も 何 度 で も 作り替え られる 。 それ が 僕 ら の ライフ と いう もの 。",
+    "korean": "나를 다 안다는 듯이 말하지 마. 우리는 우리 이외에는 될 수 없지만, 우리는 우리 이상이 되어간다. 오늘의 망설임, 오늘의 선택, 오늘의 감동. 반복하고, 반복하고. 우리는 새롭게 만들어진다. 그리고 몇 번이고 몇 번이고 다시 만들어진다. 그것이 우리의 라이프(Life)라는 것.",
+    "english": "Don't speak like you know me. We can't be anyone but ourselves, but we become more than ourselves. Today's hesitation, choices, emotions. Recurring, recurring. We are newly shaped. And remade again and again. That is what our Life is.",
+    "words": [
+      {
+        "word": "迷い",
+        "reading": "まよい",
+        "meaning": "망설임 / hesitation"
+      },
+      {
+        "word": "選択",
+        "reading": "せんたく",
+        "meaning": "선택 / choice"
+      },
+      {
+        "word": "感動",
+        "reading": "かんどう",
+        "meaning": "감동 / emotion, moving"
+      },
+      {
+        "word": "繰り返す",
+        "reading": "くりかえす",
+        "meaning": "반복하다 / repeat"
+      }
+    ],
+    "category": "인생"
+  },
+  {
+    "id": 21,
+    "japanese": "私 を 証明 する もの が 1番 私 じゃ なかっ た 。 毎日 会社 で 使う ID カード 。 そこ に 移る 私 は 本当 の 私 ? 紙 、 服 、 メイク 。 選ん で い た の は 自分 らし さ より 社会人 らし さ 。 私 は 何 に 怯え て いる の だろう ? 何 を 隠し たい の だろう ?",
+    "korean": "나를 증명하는 것이 가장 나답지 않았다. 매일 회사에서 쓰는 ID 카드. 거기에 비친 나는 진짜 나인가? 종이, 옷, 메이크업. 선택했던 건 나다움보다 사회인 다움. 나는 무엇을 두려워하고 있는 걸까? 무엇을 숨기고 싶은 걸까?",
+    "english": "What proved me was the least like me. The ID card I use daily at work. Is the person reflected there the real me? Paper, clothes, makeup. What I chose was not being myself, but being a proper adult. What am I afraid of? What do I want to hide?",
+    "words": [
+      {
+        "word": "証明",
+        "reading": "しょうめい",
+        "meaning": "증명 / proof"
+      },
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "meaning": "회사 / company"
+      },
+      {
+        "word": "自分らしさ",
+        "reading": "じぶんらしさ",
+        "meaning": "나다움 / being oneself"
+      },
+      {
+        "word": "隠す",
+        "reading": "かくす",
+        "meaning": "숨기다 / hide"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 22,
+    "japanese": "正解 は ない 。 私 が ある だけ 。 誰 に も 似 て い ない 人生 は 大変 だ 。 こう ある べき から 逸脱 し た 瞬間 に ナイフ の よう な 鋭 さ で 言葉 が 視線 が 一斉 に 攻め て くる 。 で も それ に 屈し て い たら 新しい もの は 生まれ にくく なる 。 正解 が 1 つ しか ない 世の中 は 退屈 だ 。",
+    "korean": "정답은 없다. 내가 있을 뿐. 누구와도 닮지 않은 인생은 힘들다. '이래야 한다'에서 벗어난 순간, 칼날 같은 날카로움으로 말들이, 시선이 일제히 공격해 온다. 하지만 거기에 굴복하고 있다면 새로운 것은 태어나기 힘들어진다. 정답이 하나밖에 없는 세상은 지루하다.",
+    "english": "There is no correct answer. Only 'I' exist. A life unlike anyone else's is hard. The moment you deviate from 'how it should be', words and gazes attack with knife-like sharpness. But if you yield to that, it becomes hard for new things to be born. A world with only one right answer is boring.",
+    "words": [
+      {
+        "word": "正解",
+        "reading": "せいかい",
+        "meaning": "정답 / correct answer"
+      },
+      {
+        "word": "逸脱",
+        "reading": "いつだつ",
+        "meaning": "일탈, 벗어남 / deviation"
+      },
+      {
+        "word": "鋭さ",
+        "reading": "するどさ",
+        "meaning": "날카로움 / sharpness"
+      },
+      {
+        "word": "退屈",
+        "reading": "たいくつ",
+        "meaning": "지루함 / boring"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 23,
+    "japanese": "2 種類 の 人間 が いる 。 やり たい こと 、 やっ ちゃう 人 と やら ない 人 。 おかげ で この 人生 痛い 目 に も 合っ て き た 。 散々 恥 も描い て き た 。 誰 か の 言う こと 素直 に 聞い てりゃ 今 より ずっと 楽 だっ た か も しれ ない 。 で も ね 、 これ だけ は 言える 。 やり たい こと やっ ちゃう 人生 の 方 が 間違い なく 面白い 。 あんた は どう する ?",
+    "korean": "두 종류의 인간이 있다. 하고 싶은 거 해버리는 사람과 안 하는 사람. 덕분에 이 인생 쓴맛도 봤다. 실컷 창피도 당했다. 누군가의 말 순순히 들었으면 지금보다 훨씬 편했을지도 모른다. 하지만 이건 말할 수 있다. 하고 싶은 거 해버리는 인생이 틀림없이 재미있다. 당신은 어떻게 할래?",
+    "english": "There are two types of people. Those who do what they want, and those who don't. Thanks to that, I've had painful experiences in this life. I've been thoroughly embarrassed. If I had just listened to someone, it might have been easier. But I can say this. A life where you do what you want is definitely more interesting. What will you do?",
+    "words": [
+      {
+        "word": "種類",
+        "reading": "しゅるい",
+        "meaning": "종류 / type"
+      },
+      {
+        "word": "恥",
+        "reading": "はじ",
+        "meaning": "부끄러움, 수치 / shame"
+      },
+      {
+        "word": "素直",
+        "reading": "すなお",
+        "meaning": "순순함, 솔직함 / obedient, honest"
+      },
+      {
+        "word": "間違いなく",
+        "reading": "まちがいなく",
+        "meaning": "틀림없이 / definitely"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 24,
+    "japanese": "失敗 し て も 未来 の あなた は 許し て くれる 。 失敗 なんか する もん か 。 いくら そう 心 に 決め て も あなた は きっと 間違える 。 なん で 自分 は うまく やれ ない ん だ と 。 悩み 落ち込む 日 が やっ て くる 。 だ けど それ で いい と 思う 。 20十歳 は まだ 大人 0 歳 転ん で 迷っ て 当たり前 。 あの 失敗 が あっ て 良かっ た 。 そう 思える 日 は 不思議 と 必ず やっ て くる 。",
+    "korean": "실패해도 미래의 당신은 용서해 준다. 실패 따위 할까 보냐. 아무리 그렇게 마음먹어도 당신은 분명 틀린다. 왜 나는 잘하지 못할까 하고 고민하고 우울해지는 날이 온다. 하지만 그래도 된다고 생각한다. 20세는 아직 어른 0세. 넘어지고 헤매는 게 당연함. 그 실패가 있어서 다행이다. 그렇게 생각할 수 있는 날은 신기하게도 반드시 온다.",
+    "english": "Even if you fail, the future you will forgive you. 'I won't fail.' No matter how much you decide that, you will surely make mistakes. Days will come when you worry and feel down about why you can't do well. But I think that's okay. 20 years old is just 0 years old as an adult. It's natural to stumble and get lost. The day you think 'I'm glad I had that failure' will strangely, surely come.",
+    "words": [
+      {
+        "word": "失敗",
+        "reading": "しっぱい",
+        "meaning": "실패 / failure"
+      },
+      {
+        "word": "許す",
+        "reading": "ゆるす",
+        "meaning": "용서하다 / forgive"
+      },
+      {
+        "word": "悩む",
+        "reading": "なやむ",
+        "meaning": "고민하다 / worry"
+      },
+      {
+        "word": "当たり前",
+        "reading": "あたりまえ",
+        "meaning": "당연함 / natural, obvious"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 25,
+    "japanese": "人 に は 迷子 に なる 時間 が 必要 だ 。 いつ も の 道 を 駅 へ 向かい 、 いつ も の 電車 に 乗る 。 いつ も の ビル の ドア を 押し 、 ひぐれ に なれ ば また 逆戻り 。 そんな 平凡 な 日々 を 愛し て は い て も 時 に は 小さな あび を 噛み殺す こと が ある 。 決まり きっ た レール を 離れ て 思い の まま に 彷徨 て み たい 。",
+    "korean": "사람에게는 미아가 될 시간이 필요하다. 늘 다니던 길로 역을 향하고, 늘 타던 전차를 탄다. 늘 가던 빌딩 문을 밀고, 해 질 무렵이면 다시 되돌아온다. 그런 평범한 날들을 사랑하면서도 때로는 작은 하품을 참을 때가 있다. 정해진 레일을 벗어나 마음대로 방황해 보고 싶다.",
+    "english": "People need time to get lost. Heading to the station on the usual path, taking the usual train. Pushing the usual building door, returning at dusk. Even if we love such ordinary days, sometimes we stifle a small yawn. I want to leave the fixed rails and wander as I please.",
+    "words": [
+      {
+        "word": "迷子",
+        "reading": "まいご",
+        "meaning": "미아 / lost child"
+      },
+      {
+        "word": "平凡",
+        "reading": "へいぼん",
+        "meaning": "평범 / ordinary"
+      },
+      {
+        "word": "欠伸",
+        "reading": "あくび",
+        "meaning": "하품 / yawn"
+      },
+      {
+        "word": "彷徨う",
+        "reading": "さまよう",
+        "meaning": "방황하다, 헤매다 / wander"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 26,
+    "japanese": "変化 の 時代 じゃ ない 時代 なんて あり まし た ? 人生 は 変化 の 連続 だ 。 まず 細胞 が 入れ替わる 。 毎年 必ず 年齢 が 変わる 。 生き て るって そう いう こと 。 人 が 集まっ て でき て いる 社会 も 変わる の は 当たり前 。",
+    "korean": "변화의 시대가 아닌 시대가 있었나요? 인생은 변화의 연속이다. 우선 세포가 바뀐다. 매년 반드시 나이가 변한다. 살아있다는 건 그런 것. 사람이 모여서 만들어진 사회도 변하는 건 당연하다.",
+    "english": "Was there ever an era that wasn't an era of change? Life is a series of changes. First, cells are replaced. Age changes every year without fail. That's what being alive means. It's natural that society, made of people, also changes.",
+    "words": [
+      {
+        "word": "変化",
+        "reading": "へんか",
+        "meaning": "변화 / change"
+      },
+      {
+        "word": "時代",
+        "reading": "じだい",
+        "meaning": "시대 / era"
+      },
+      {
+        "word": "細胞",
+        "reading": "さいぼう",
+        "meaning": "세포 / cell"
+      },
+      {
+        "word": "当然",
+        "reading": "とうぜん",
+        "meaning": "당연 / natural"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 27,
+    "japanese": "時代 は 変わっ て いく 。 生き 方 も 常識 も 価値 観 も どんどん 変わっ て いく 。 それ で も 人 は これ から も きっと 笑い合う 。 きっと くだら ない 話 を する 。 弱 を 吐く 。 きっと 恋 を する 。 時代 は 変わっ て いく 。 それ で も 人 は 人 と 生き て いく 。 今日 も また 笑っ て 語っ て 人生 に は 飲食 店 が いる 。",
+    "korean": "시대는 변해간다. 사는 방식도 상식도 가치관도 점점 변해간다. 그래도 사람은 앞으로도 분명 서로 웃을 것이다. 분명 시시한 이야기를 할 것이다. 약한 소리를 할 것이다. 분명 사랑을 할 것이다. 시대는 변해간다. 그래도 사람은 사람과 살아간다. 오늘도 또 웃고 이야기하고, 인생에는 음식점이 필요하다.",
+    "english": "Times change. Lifestyles, common sense, and values keep changing. Still, people will surely laugh together. Surely talk about trivial things. Complain. Surely fall in love. Times change. Still, people live with people. Laughing and talking again today, life needs restaurants.",
+    "words": [
+      {
+        "word": "常識",
+        "reading": "じょうしき",
+        "meaning": "상식 / common sense"
+      },
+      {
+        "word": "価値観",
+        "reading": "かちかん",
+        "meaning": "가치관 / values"
+      },
+      {
+        "word": "弱音",
+        "reading": "よわね",
+        "meaning": "약한 소리 / complaints"
+      },
+      {
+        "word": "飲食店",
+        "reading": "いんしょくてん",
+        "meaning": "음식점 / restaurant"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 28,
+    "japanese": "大人 って 何 だろう ? いつ の 間 に か いい 年 に なっ て そんな こと を ぼんやり 考え たり する 。 今時 理想 は 1 つ じゃ ない し 、 その 答え は 簡単 に は 見つから ない 。 大人 に なっ て も 僕 ら の 旅 は 続く 。 悩み や 不安 は つき ない けれど 、 変わる 景色 や 寄り道 を 楽しみ ながら 大人 は みんな 旅 の 途中",
+    "korean": "어른이란 뭘까? 어느새 꽤 나이를 먹고 그런 것을 멍하니 생각하곤 한다. 요즘 이상은 하나가 아니고, 그 답은 쉽게 찾을 수 없다. 어른이 되어도 우리의 여행은 계속된다. 고민과 불안은 끝이 없지만, 변하는 풍경과 샛길(농땡이)을 즐기면서 어른은 모두 여행 중.",
+    "english": "What is an adult? Before I knew it, I reached a certain age and vaguely think about that. Nowadays, ideals aren't singular, and answers aren't easily found. Even as adults, our journey continues. Worries and anxieties are endless, but enjoying the changing scenery and detours, all adults are in the middle of a journey.",
+    "words": [
+      {
+        "word": "理想",
+        "reading": "りそう",
+        "meaning": "이상 / ideal"
+      },
+      {
+        "word": "寄り道",
+        "reading": "よりみち",
+        "meaning": "가는 길에 들름, 샛길 / detour, dropping by"
+      },
+      {
+        "word": "途中",
+        "reading": "とちゅう",
+        "meaning": "도중 / on the way"
+      }
+    ],
+    "category": "인생"
+  },
+  {
+    "id": 29,
+    "japanese": "ある べきって ない べき 。 何歳 に なっ たら どう ある べき と か 女性 だ から こう ある べき と か 私 は こう 見せる べき と か そんな 決めつけ から 卒業 し ます 。 私 らし さ を 愛せる 人 へ 。",
+    "korean": "'그래야 한다'는 없어야 한다. 몇 살이 되면 어때야 한다거나 여자니까 이래야 한다거나 나는 이렇게 보여야 한다거나. 그런 단정 짓기에서 졸업합니다. 나다움을 사랑할 수 있는 사람에게.",
+    "english": "'Should be' shouldn't exist. How you should be at a certain age, how you should be as a woman, how I should look. I'm graduating from such assumptions. To those who can love their own uniqueness.",
+    "words": [
+      {
+        "word": "あるべき",
+        "reading": "あるべき",
+        "meaning": "마땅히 있어야 할 / should be"
+      },
+      {
+        "word": "決めつけ",
+        "reading": "きめつけ",
+        "meaning": "단정, 낙인 / assumption,labeling"
+      },
+      {
+        "word": "卒業",
+        "reading": "そつぎょう",
+        "meaning": "졸업 / graduation"
+      },
+      {
+        "word": "私らしさ",
+        "reading": "わたしらしさ",
+        "meaning": "나다움 / being myself"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 30,
+    "japanese": "おじ さん と いう より 少年 の ベテラン に 湧きまえる を 知っ て いる けど 諦める を 知ら ない 。 も 知性 も ある けど 無垢 な 感情 を 隠さ ない 。 少年 の ベテラン は 心 の フットワーク が 軽い の だ 。 あの 日 の 住み渡る 青い 空 は まだ 遠く ない 。 40 歳 から を 誇ろう 。 う 。",
+    "korean": "아저씨라기보단 소년의 베테랑으로. 분수를 알지만 포기를 모른다. 예의도 지성도 있지만 순수한 감정을 숨기지 않는다. 소년의 베테랑은 마음의 풋워크가 가볍다. 그날의 맑게 갠 파란 하늘은 아직 멀지 않다. 40세부터를 자랑하자.",
+    "english": "Rather than an old man, a veteran boy. Knows his place but doesn't know giving up. Has manners and intelligence but doesn't hide innocent emotions. A veteran boy has light emotional footwork. That day's clear blue sky is not far yet. Let's be proud of starting from 40.",
+    "words": [
+      {
+        "word": "弁える",
+        "reading": "わきまえる",
+        "meaning": "분별하다, 분수를 알다 / know one's place"
+      },
+      {
+        "word": "諦める",
+        "reading": "あきらめる",
+        "meaning": "포기하다 / give up"
+      },
+      {
+        "word": "無垢",
+        "reading": "むく",
+        "meaning": "무구함, 순수함 / innocent"
+      },
+      {
+        "word": "誇る",
+        "reading": "ほこる",
+        "meaning": "자랑하다 / take pride in"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 31,
+    "japanese": "子供 たち に 伝え たい こと が ある 。 この 世界 が どんな に 美しい か 。 この 星 は 水 の 星 。 青く 光る 星 。 雲 の 枠 雪 の ツもる 。 季節 の 巡る 星 夕やけ の 星 虹 の 星 奇跡 の よう な 命 の 星 。 こんな 星 は この 宇宙 に 滅多 に ない 。",
+    "korean": "아이들에게 전하고 싶은 것이 있다. 이 세상이 얼마나 아름다운지. 이 별은 물의 별. 푸르게 빛나는 별. 구름이 솟고 눈이 쌓이는. 계절이 도는 별. 저녁노을의 별. 무지개의 별. 기적 같은 생명의 별. 이런 별은 이 우주에 좀처럼 없다.",
+    "english": "There is something I want to tell children. How beautiful this world is. This planet is a planet of water. A blue shining planet. Clouds rise, snow piles up. A planet where seasons cycle. Planet of sunsets. Planet of rainbows. A planet of miraculous life. Such a planet is rare in this universe.",
+    "words": [
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "meaning": "아름답다 / beautiful"
+      },
+      {
+        "word": "季節",
+        "reading": "きせつ",
+        "meaning": "계절 / season"
+      },
+      {
+        "word": "奇跡",
+        "reading": "きせき",
+        "meaning": "기적 / miracle"
+      },
+      {
+        "word": "滅多に",
+        "reading": "めったに",
+        "meaning": "좀처럼 / rarely"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 32,
+    "japanese": "美味しい 生活 甘い ばかり じゃ 退屈 です 。 辛い 、 苦い 、 酸っぱい 、 渋い と 色々 ある の が 大人 の 生活 。 問い たい の は 味 で あり ます 。 自分 の 美味し さ を 探す トリップ は その まま 自分 の 生活 を 探す こと らしい 。 美味しい 人 に あっ て 、 美いしい 本 を 読ん で 美いしい を 見つけ て 美味しい 時間 を 過ごす 。 そんな 生活 理想 に 終わら せ たく ない な 。",
+    "korean": "맛있는 생활. 달콤하기만 해서는 지루합니다. 맵고, 쓰고, 시고, 떫고, 여러 가지가 있는 것이 어른의 생활. 묻고 싶은 것은 맛입니다. 자신의 맛을 찾는 여행(Trip)은 그대로 자신의 생활을 찾는 것이라고 한다. 맛있는 사람을 만나고, 맛있는 책을 읽고, 맛있는 것을 발견하고, 맛있는 시간을 보낸다. 그런 생활, 이상으로 끝내고 싶지 않군.",
+    "english": "Delicious life. Just sweet is boring. Spicy, bitter, sour, astringent—adult life has it all. What I want to ask about is taste. The trip to find your own taste seems to be finding your own life. Meeting delicious people, reading delicious books, finding delicious things, spending delicious time. I don't want to let such a life end as just an ideal.",
+    "words": [
+      {
+        "word": "退屈",
+        "reading": "たいくつ",
+        "meaning": "지루함 / boring"
+      },
+      {
+        "word": "酸っぱい",
+        "reading": "すっぱい",
+        "meaning": "시다 / sour"
+      },
+      {
+        "word": "渋い",
+        "reading": "しぶい",
+        "meaning": "떫다, 중후하다 / astringent, tasteful"
+      },
+      {
+        "word": "理想",
+        "reading": "りそう",
+        "meaning": "이상 / ideal"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 33,
+    "japanese": "楽しく 生きる 。 以上 です 。 楽しく 生きる ヒント は 自分 。 つまん なく 生きる ヒント も 自分 。 楽しく て も つまん なく て も 日 は 沈む 。 楽しい が 渋滞 し て いる 春 に なれ 。",
+    "korean": "즐겁게 산다. 이상입니다. 즐겁게 사는 힌트는 자신. 재미없게 사는 힌트도 자신. 즐거워도 재미없어도 해는 진다. 즐거움이 정체되어 있는 봄이 되어라.",
+    "english": "Live happily. That's all. The hint to living happily is yourself. The hint to living boringly is also yourself. Whether fun or boring, the sun sets. Be a spring where fun is backed up (in traffic/abundance).",
+    "words": [
+      {
+        "word": "ヒント",
+        "reading": "ひんと",
+        "meaning": "힌트 / hint"
+      },
+      {
+        "word": "沈む",
+        "reading": "しずむ",
+        "meaning": "저물다, 가라앉다 / set, sink"
+      },
+      {
+        "word": "渋滞",
+        "reading": "じゅうたい",
+        "meaning": "정체 / congestion, jam"
+      }
+    ],
+    "category": "감성"
+  },
+  {
+    "id": 34,
+    "japanese": "普段着 の 日 が 人生 に なる 。 人 は いつ の 日 か 人生 を 終える 。 その 時 愛しく 思い返す の は 何気ない 普段 で 過ごし た 日々 の こと で は ない だろう か 。",
+    "korean": "평상복 차림의 날이 인생이 된다. 사람은 언젠가 인생을 마친다. 그때 사랑스럽게 되돌아보는 것은 아무렇지 않은 평상복으로 지낸 날들이 아닐까.",
+    "english": "Days in everyday clothes become life. People eventually end their lives. At that time, what we look back on lovingly might be the days spent in casual everyday clothes.",
+    "words": [
+      {
+        "word": "普段着",
+        "reading": "ふだんぎ",
+        "meaning": "평상복 / everyday clothes"
+      },
+      {
+        "word": "愛しい",
+        "reading": "いとしい",
+        "meaning": "사랑스럽다 / dear, lovely"
+      },
+      {
+        "word": "思い返す",
+        "reading": "おもいかえす",
+        "meaning": "되돌아보다 / look back, reflect"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 35,
+    "japanese": "検索 結果 に 頼り すぎ て 世の中 ちょっと つまら なく なっ て ませ ん か ? 目的 地 へ の 往復 だけ じゃ 気づか ない 。 寄り道 が くれる 偶然 の 出会い に 人 は ワクワク する ん だ 。 検索 より 探索 。",
+    "korean": "검색 결과에 너무 의존해서 세상이 좀 재미없어지지 않았나요? 목적지로의 왕복만으로는 알아챌 수 없다. 샛길이 주는 우연한 만남에 사람은 설레는 법이다. 검색보다 탐색.",
+    "english": "Relying too much on search results, hasn't the world become a bit boring? You can't notice things just by going back and forth to your destination. People get excited by accidental encounters from detours. Exploration over search.",
+    "words": [
+      {
+        "word": "検索",
+        "reading": "けんさく",
+        "meaning": "검색 / search"
+      },
+      {
+        "word": "頼る",
+        "reading": "たよる",
+        "meaning": "의지하다 / rely"
+      },
+      {
+        "word": "偶然",
+        "reading": "ぐうぜん",
+        "meaning": "우연 / coincidence"
+      },
+      {
+        "word": "探索",
+        "reading": "たんさく",
+        "meaning": "탐색 / exploration"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 36,
+    "japanese": "手紙 なら 武器 要素 も 武器 に なる 。 貧線 を 選ぶ 。 下書き を する 。 成唱 する 。 住所 を 書く 。 切手 を 貼る 。 ポスト に 入れる 。 手間 が かかる こと を 知っ て いる から 手紙 は もらう と 嬉しい 。",
+    "korean": "편지라면, 서투름도 무기가 된다. 편지지를 고른다. 초안을 쓴다. 정서(깨끗이 베겨 씀)한다. 주소를 쓴다. 우표를 붙인다. 우체통에 넣는다. 수고가 드는 것을 알고 있기에 편지는 받으면 기쁘다.",
+    "english": "If it's a letter, clumsiness becomes a weapon. Choosing stationery. Drafting. Writing clean copy. Writing the address. Sticking a stamp. Putting it in the postbox. Because we know it takes effort, we are happy to receive a letter.",
+    "words": [
+      {
+        "word": "不器用",
+        "reading": "ぶきよう",
+        "meaning": "서투름 / clumsy"
+      },
+      {
+        "word": "武器",
+        "reading": "ぶき",
+        "meaning": "무기 / weapon"
+      },
+      {
+        "word": "便箋",
+        "reading": "びんせん",
+        "meaning": "편지지 / stationery"
+      },
+      {
+        "word": "手間",
+        "reading": "てま",
+        "meaning": "수고, 품 / effort"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 37,
+    "japanese": "偶然 は 偶然 に 起き ない 。 全て は 必然 なんて 言う つもり ない 。 だ けど 偶然 は 明日 を 変える 力 に なる よ 。 誰 か と 何か と 偶然 出会う 仕組み が 好き 。 神 様 、 そこ ん とこ どうぞ よろしく 。",
+    "korean": "우연은 우연히 일어나지 않는다. 모든 것은 필연이라고 말할 생각은 없다. 하지만 우연은 내일을 바꾸는 힘이 돼. 누군가와 무언가와 우연히 만나는 구조가 좋아. 신이시여, 그 부분 부디 잘 부탁해.",
+    "english": "Coincidence doesn't happen by coincidence. I don't intend to say everything is inevitable. But coincidence becomes the power to change tomorrow. I like the mechanism of accidentally meeting someone or something. God, please take care of that part.",
+    "words": [
+      {
+        "word": "偶然",
+        "reading": "ぐうぜん",
+        "meaning": "우연 / coincidence"
+      },
+      {
+        "word": "必然",
+        "reading": "ひつぜん",
+        "meaning": "필연 / inevitability"
+      },
+      {
+        "word": "仕組み",
+        "reading": "しくみ",
+        "meaning": "구조, 시스템 / mechanism"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 38,
+    "japanese": "窓 あなた と 天気 の 間 に ある もの 誰 か を 詩人 に する 装置 ずっと 前 から 世界 を ライブ 配信 中 窓 の 日差し は 50億 年 持つ 証明 器具 でしょう 。",
+    "korean": "창문. 당신과 날씨 사이에 있는 것. 누군가를 시인으로 만드는 장치. 아주 오래전부터 세계를 라이브 방송 중. 창문의 햇살은 50억 년 가는 조명 기구겠죠.",
+    "english": "Window. Something between you and the weather. A device that turns someone into a poet. Live streaming the world from long ago. Window sunlight must be a lighting fixture that lasts 5 billion years.",
+    "words": [
+      {
+        "word": "窓",
+        "reading": "まど",
+        "meaning": "창문 / window"
+      },
+      {
+        "word": "天気",
+        "reading": "てんき",
+        "meaning": "날씨 / weather"
+      },
+      {
+        "word": "詩人",
+        "reading": "しじん",
+        "meaning": "시인 / poet"
+      },
+      {
+        "word": "装置",
+        "reading": "そうち",
+        "meaning": "장치 / device"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 39,
+    "japanese": "性別 も 背 の 高 さ も 体重 も 肌 の 色 も 目 の 大き さ も 話す 言語 も 生きる 時代 も 何 も 美し さ を 縛れ ない 。",
+    "korean": "성별도, 키도, 체중도, 피부색도, 눈 크기도, 사용하는 언어도, 사는 시대도, 그 무엇도 아름다움을 묶을 수 없다.",
+    "english": "Gender, height, weight, skin color, eye size, spoken language, era lived in—nothing can bind beauty.",
+    "words": [
+      {
+        "word": "性別",
+        "reading": "せいべつ",
+        "meaning": "성별 / gender"
+      },
+      {
+        "word": "言語",
+        "reading": "げんご",
+        "meaning": "언어 / language"
+      },
+      {
+        "word": "縛る",
+        "reading": "しばる",
+        "meaning": "묶다, 구속하다 / bind, tie"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 40,
+    "japanese": "肌 は 私 が 見る より 誰 か が 見る 時間 の 方 が 長い 。 肌 を 愛い そう 。 肌 が 明るい 日 は 声 まで 明るく なる 。 肌 を 愛い そう 。 肌 が いい 日 は いつ も より ゆっくり 歩く 。 肌 を 愛い そう 。",
+    "korean": "피부는 내가 보는 것보다 누군가 보는 시간이 더 길다. 피부를 사랑하자. 피부가 밝은 날은 목소리까지 밝아진다. 피부를 사랑하자. 피부가 좋은 날은 평소보다 천천히 걷는다. 피부를 사랑하자.",
+    "english": "Skin is watched by others longer than I watch it myself. Let's love our skin. On days when skin is bright, even the voice becomes bright. Let's love our skin. On days when skin is good, I walk slower than usual. Let's love our skin.",
+    "words": [
+      {
+        "word": "肌",
+        "reading": "はだ",
+        "meaning": "피부 / skin"
+      },
+      {
+        "word": "愛そう",
+        "reading": "あいそう",
+        "meaning": "사랑하자 / let's live"
+      },
+      {
+        "word": "明るい",
+        "reading": "あかるい",
+        "meaning": "밝다 / bright"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 41,
+    "japanese": "頑張る 人 の 頑張ら ない 時間 。 世の中 に は 頑張っ て いる 人 が どんな に たくさん いる か 。 暑い 日 も 寒い 日 も 傘 が 役 に 立た ない よう な 雨風 の 日 も 電車 を 止め て しまう ほど の 雪 の 日 も 会社 の ため に 家族 の ため に そして 自分 の ため に 頑張る 人 たち そんな 人 たち に 頑張ら ない 時間 を あげ たい 。 頑張ら ない 時間 は 次 の 頑張る 時間 の ため に ある 。",
+    "korean": "노력하는 사람의 노력하지 않는 시간. 세상에는 노력하는 사람이 얼마나 많은가. 더운 날도 추운 날도, 우산이 소용없을 정도의 비바람 부는 날도, 전차를 멈춰버릴 정도의 눈 오는 날도, 회사를 위해 가족을 위해 그리고 자신을 위해 노력하는 사람들. 그런 사람들에게 노력하지 않는 시간을 주고 싶다. 노력하지 않는 시간은 다음 노력할 시간을 위해 있다.",
+    "english": "The non-striving time of striving people. How many striving people are there in the world? Hot days, cold days, days with rain and wind where umbrellas are useless, snowy days that stop trains. People striving for company, for family, and for themselves. I want to give such people time not to strive. Time not striving exists for the next time of striving.",
+    "words": [
+      {
+        "word": "頑張る",
+        "reading": "がんばる",
+        "meaning": "노력하다 / strive, do one's best"
+      },
+      {
+        "word": "役",
+        "reading": "やく",
+        "meaning": "역할, 쓸모 / use, role"
+      },
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "meaning": "시간 / time"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 42,
+    "japanese": "よく 働く 手 は よく 働く 私 でし た 。 今日 も 手 が 働い て いる 。 あなた が 今日 も 働い て いる 。 手 が 冷た さ に 耐え て いる 。 あなた が 冷た さ に 耐え て いる 。 その 手 が 誰 か を 幸せ に し て いる 。 あなた が 誰 か を 幸せ に し て いる 。 手 を 至わる こと は よく働 分 を 褒める こと 。 働く 手 を 褒めよう 。",
+    "korean": "일 잘하는 손은 일 잘하는 나였습니다. 오늘도 손이 일하고 있다. 당신이 오늘도 일하고 있다. 손이 차가움을 견디고 있다. 당신이 차가움을 견디고 있다. 그 손이 누군가를 행복하게 하고 있다. 당신이 누군가를 행복하게 하고 있다. 손을 위로하는 것은 일 잘하는 자신을 칭찬하는 것. 일하는 손을 칭찬하자.",
+    "english": "Well-working hands were well-working me. Hands are working today too. You are working today too. Hands are enduring coldness. You are enduring coldness. Those hands are making someone happy. You are making someone happy. Caring for hands is praising your hardworking self. Let's praise working hands.",
+    "words": [
+      {
+        "word": "働く",
+        "reading": "はたらく",
+        "meaning": "일하다 / work"
+      },
+      {
+        "word": "耐える",
+        "reading": "たえる",
+        "meaning": "견지다 / endure"
+      },
+      {
+        "word": "労る",
+        "reading": "いたわる",
+        "meaning": "위로하다, 돌보다 / care for, comfort"
+      },
+      {
+        "word": "褒める",
+        "reading": "ほめる",
+        "meaning": "칭찬하다 / praise"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 43,
+    "japanese": "大人 から 幸せ に なろう 。 1番 大切 な の は あなた が 幸福 で ある こと 。 あなた が 幸福 で なけれ ば あなた の 後 に 続く 若者 や 子供 たち が 大人 に なり たい と 思わ ない の です から 。",
+    "korean": "어른부터 행복해지자. 가장 중요한 것은 당신이 행복한 것. 당신이 행복하지 않으면 당신의 뒤를 잇는 젊은이나 아이들이 어른이 되고 싶다고 생각하지 않을 테니까.",
+    "english": "Let's be happy starting from adults. The most important thing is that you are happy. If you are not happy, the young people and children following you won't want to become adults.",
+    "words": [
+      {
+        "word": "幸福",
+        "reading": "こうふく",
+        "meaning": "행복 / happiness"
+      },
+      {
+        "word": "続く",
+        "reading": "つづく",
+        "meaning": "이어지다, 따르다 / follow, continue"
+      },
+      {
+        "word": "若者",
+        "reading": "わかもの",
+        "meaning": "젊은이 / young people"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 44,
+    "japanese": "上手 な 生き 方 と か じゃ なく 、 みんな が 幸せ に なれる と いい の に ポイント を 気 に し て 買い物 する ん じゃ なく 、 欲しい もの に 自然 と ポイント が つい て くる と いい の に 。 お 得 と いう 言葉 に 縛ら れる ん じゃ なく 、 自由 な 気持ち で 暮らせる と いい の に 。",
+    "korean": "현명한 삶의 방식 같은 게 아니라, 모두가 행복해지면 좋을 텐데. 포인트를 신경 써서 쇼핑하는 게 아니라, 필요한 것에 자연스럽게 포인트가 쌓이면 좋을 텐데. 이득이라는 말에 얽매이지 않고, 자유로운 마음으로 살 수 있으면 좋을 텐데.",
+    "english": "Not smart ways of living, but I wish everyone could be happy. Not shopping while worrying about points, but I wish points would naturally accrue on what I want. Not bound by the word 'bargain', I wish I could live with a free heart.",
+    "words": [
+      {
+        "word": "上手",
+        "reading": "じょうず",
+        "meaning": "능숙함 / skillful"
+      },
+      {
+        "word": "自然",
+        "reading": "しぜん",
+        "meaning": "자연 / nature, natural"
+      },
+      {
+        "word": "縛られる",
+        "reading": "しばられる",
+        "meaning": "얽매이다 / be bound"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 45,
+    "japanese": "私 は 私 。 今年 あなた は 1 つ 年 を 取る 。 その 度 に 年 早 相応 に と か いい 年 し て と か つまら ない 言葉 が あなた を 縛ろう と する 。 あなた は 耳 を 貸す 必要 なんて ない 。 世間 の 見る 目 なんて いつ だっ て 後 から 変わる 。",
+    "korean": "나는 나. 올해 당신은 한 살 나이를 먹는다. 그때마다 나이답게 라든가 나잇값이라든가 시시한 말이 당신을 옭아매려 한다. 당신은 귀를 기울일 필요 따위 없다. 세상을 보는 눈 따위 언제나 나중에 변한다.",
+    "english": "I am me. This year you get one year older. Every time, boring words like 'act your age' try to bind you. You don't need to listen. The eyes of the world always change later.",
+    "words": [
+      {
+        "word": "年相応",
+        "reading": "としそうおう",
+        "meaning": "나이에 걸맞음 / age-appropriate"
+      },
+      {
+        "word": "耳を貸す",
+        "reading": "みみをかす",
+        "meaning": "귀를 기울이다 / listen to"
+      },
+      {
+        "word": "世間",
+        "reading": "せけん",
+        "meaning": "세상, 세간 / society, world"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 46,
+    "japanese": "春 です 。 いつ も より 少し だけ 新しい 世界 が 始まろう と し て い ます 。 さやか な 表情 の 生きかう 毎日 は もっと 広がっ て いく でしょう 。 その 日常 は きっと この 上 なく 美しい 。 悩ん で い て も 前 を 向い て い て も 立ち止まっ て い て も 踏み出し て い て も 泣き合っ て い て も 笑い合っ て い て も みんな いい 顔 し てる 。",
+    "korean": "봄입니다. 평소보다 조금 새로운 세계가 시작되려 하고 있습니다. 상쾌한 표정의 오가는 매일은 좀 더 넓어져 가겠죠. 그 일상은 분명 더할 나위 없이 아름답다. 고민하고 있어도, 앞을 향하고 있어도, 멈춰 서 있어도, 내딛고 있어도, 울고 있어도, 웃고 있어도, 모두 좋은 얼굴 하고 있네.",
+    "english": "It's spring. A slightly newer world than usual is about to begin. The daily comings and goings with refreshing expressions will likely expand more. That everyday life is surely supremely beautiful. Whether worrying, looking forward, standing still, stepping forward, crying together, or laughing together, everyone has a good face.",
+    "words": [
+      {
+        "word": "春",
+        "reading": "はる",
+        "meaning": "봄 / spring"
+      },
+      {
+        "word": "爽やか",
+        "reading": "さわやか",
+        "meaning": "상쾌함 / refreshing"
+      },
+      {
+        "word": "日常",
+        "reading": "にちじょう",
+        "meaning": "일상 / daily life"
+      },
+      {
+        "word": "この上なく",
+        "reading": "このうえなく",
+        "meaning": "더할 나위 없이 /unsurpassably"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 47,
+    "japanese": "人 は 夏 育つ ひり が 気づけ ば 人 の 背 を 超え て いる よう に 一夏 で 顔つき が 全く 変わっ て いる 人 が いる 。 動く だけ で クタクタ に なる ほど 暑い の に 人 は 恋 に 落ち スポーツ に 打ち込み 仕事 に 燃え て 旅 に 出 て 夏 は 1 年 で 1番 人間 を 成長 さ 季節 か も しれ ない 。",
+    "korean": "사람은 여름에 자란다. 해바라기가 어느새 사람 키를 넘고 있듯이, 한여름에 얼굴 생김새가 완전히 변해 있는 사람이 있다. 움직이는 것만으로 녹초가 될 만큼 더운데 사람은 사랑에 빠지고 스포츠에 몰두하고 일에 불타고 여행을 떠나고. 여름은 1년 중 가장 인간을 성장시키는 계절일지도 모른다.",
+    "english": "People grow in summer. Just as sunflowers surpass a person's height before you know it, some people's faces change completely in one summer. Even though it's hot enough to exhaust you just by moving, people fall in love, devote themselves to sports, burn with work, go on trips. Summer might be the season that grows humans the most in a year.",
+    "words": [
+      {
+        "word": "夏",
+        "reading": "なつ",
+        "meaning": "여름 / summer"
+      },
+      {
+        "word": "育つ",
+        "reading": "そだつ",
+        "meaning": "자라다 / grow"
+      },
+      {
+        "word": "向日葵",
+        "reading": "ひまわり",
+        "meaning": "해바라기 / sunflower"
+      },
+      {
+        "word": "夢中",
+        "reading": "むちゅう",
+        "meaning": "몰두 / absorbed"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 48,
+    "japanese": "恋 が 終わっ て しまう の なら 夏 が いい 。 恋 に は いつ か 終わり が 来る 。 甘い 恋 に も 切ない 恋 に も 終わる こと なんて 考え たく も ない けれど いつ か 終わり は やっ て くる 。 終わり が 避け られ ない こと だ と すれ ば 桜る 春 より も 夕暮れ に 肩く 秋 より 人肌しい 冬 より も 鬱陶しい くらい に 日差し の 眩しい 夏 が いい 。",
+    "korean": "사랑이 끝나버리는 거라면 여름이 좋다. 사랑에는 언젠가 끝이 온다. 달콤한 사랑에도 애달픈 사랑에도 끝나는 것 따위 생각하고 싶지도 않지만 언젠가 끝은 찾아온다. 끝이 피할 수 없는 것이라고 한다면, 벚꽃 피는 봄보다, 저녁놀에 굳어지는 가을보다, 살결 그리운 겨울보다, 울적할 정도로 햇살 눈부신 여름이 좋다.",
+    "english": "If love is to end, summer is best. An end comes to love someday. Sweet love, sad love, I don't even want to think about it ending, but the end comes someday. If the end is unavoidable, rather than cherry blossom spring, sunset-hardening autumn, or skin-longing winter, I prefer the annoyingly bright summer.",
+    "words": [
+      {
+        "word": "恋",
+        "reading": "こい",
+        "meaning": "사랑 / love"
+      },
+      {
+        "word": "切ない",
+        "reading": "せつない",
+        "meaning": "애달프다 / painful, sad"
+      },
+      {
+        "word": "鬱陶しい",
+        "reading": "うっとうしい",
+        "meaning": "울적하다, 귀찮다 / gloomy, annoying"
+      },
+      {
+        "word": "眩しい",
+        "reading": "まぶしい",
+        "meaning": "눈부시다 / dazzling"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 49,
+    "japanese": "そう いえ ば 親友 も 御人 も 昔 は 他人 だっ た 。 思え ば あの 人 も ほんの 数 年 前 まで は 名前 も 知ら ない 他人 だっ た の に 。 まさか こんな に 仲良く なる なんて 。 不思議 だ 。 尊敬 し たり 嫉妬 し たり 迷惑 かけ たり かけ られ たり 出会い は 私 に いろんな こと を 教え て くれる 。 そして そう いう 経験 が 今 の 私 を 作っ て いる 。 あなた が い ない 自分 は 自分 じゃ ない 。",
+    "korean": "그러고 보니 친구도, 연인도 옛날엔 타인이었다. 생각해보면 그 사람도 불과 몇 년 전까지는 이름도 모르는 타인이었는데. 설마 이렇게 사이가 좋아지다니. 신기하다. 존경하거나 질투하거나 폐를 끼치거나 끼치게 되거나. 만남은 나에게 여러 가지를 가르쳐 준다. 그리고 그런 경험이 지금의 나를 만들고 있다. 당신이 없는 나는 내가 아니다.",
+    "english": "Come to think of it, best friends and lovers were once strangers. Thinking back, until just a few years ago, that person was a stranger whose name I didn't even know. To think we'd get this close. It's strange. Respecting, being jealous, causing trouble, being troubled. Encounters teach me many things. And such experiences make the current me. Me without you is not me.",
+    "words": [
+      {
+        "word": "親友",
+        "reading": "しんゆう",
+        "meaning": "친구 / best friend"
+      },
+      {
+        "word": "他人",
+        "reading": "たにん",
+        "meaning": "타인 / stranger"
+      },
+      {
+        "word": "不思議",
+        "reading": "ふしぎ",
+        "meaning": "신기함 / strange, mysterious"
+      },
+      {
+        "word": "尊敬",
+        "reading": "そんけい",
+        "meaning": "존경 / respect"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 50,
+    "japanese": "お母さん は 時々 嘘 を つく 。 疲れ て て も 大丈夫 って いう 。 お 菓子 が 1 つ しか なかっ たら お腹 いっぱい だ からっ て いう 。 母 の 日 の プレゼント だっ て いら ない よっ て 言う ん です 。 で も 母 の 日 を 忘れ てる お母さん は い ませ ん 。 心 の どこ か で は あなた の ありがとう を きっと 楽しみ に し てる 。 だ から ちゃんと 伝えよう 。 どんな 形 だっ て きっと 喜ん で くれる から 。",
+    "korean": "엄마는 가끔 거짓말을 한다. 피곤해도 괜찮다고 한다. 과자가 하나밖에 없으면 배부르니까라고 한다. 어버이날 선물도 필요 없다고 말해요. 하지만 어버이날을 잊고 있는 엄마는 없습니다. 마음 어디선가는 당신의 고맙다는 말을 분명 기대하고 있어. 그러니까 제대로 전하자. 어떤 형태라도 분명 기뻐해 줄 테니까.",
+    "english": "Mom lies sometimes. She says she's okay even when tired. If there's only one sweet, she says she's full. She even says she doesn't need a Mother's Day gift. But there is no mom who forgets Mother's Day. Somewhere in her heart, she is surely looking forward to your 'thank you'. So let's tell her properly. She will surely be happy with any form.",
+    "words": [
+      {
+        "word": "お母さん",
+        "reading": "おかあさん",
+        "meaning": "엄마 / mother"
+      },
+      {
+        "word": "嘘",
+        "reading": "うそ",
+        "meaning": "거짓말 / lie"
+      },
+      {
+        "word": "母の日",
+        "reading": "ははのひ",
+        "meaning": "어버이날(어머니날) / Mother's Day"
+      },
+      {
+        "word": "期待",
+        "reading": "きたい",
+        "meaning": "기대 / expectation"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 51,
+    "japanese": "愛情 を お 金 で あう こと は でき ませ ん けれど お 金 に 愛情 を 込める こと は でき ます 。 命 を 吹き込む こと は でき ます 。 愛する 人 の ため に お 金 が 使わ れる なら",
+    "korean": "애정을 돈으로 살 수는 없지만 돈에 애정을 담을 수는 있습니다. 생명을 불어넣을 수는 있습니다. 사랑하는 사람을 위해 돈이 쓰인다면.",
+    "english": "You can't buy affection with money, but you can put affection into money. You can breathe life into it. If money is used for a loved one.",
+    "words": [
+      {
+        "word": "愛情",
+        "reading": "あいじょう",
+        "meaning": "애정 / affection"
+      },
+      {
+        "word": "命",
+        "reading": "いのち",
+        "meaning": "생명 / life"
+      },
+      {
+        "word": "吹き込む",
+        "reading": "ふきこむ",
+        "meaning": "불어넣다 / breathe into"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 52,
+    "japanese": "嫌い な 人 を 褒め て みよう 。 違う から 面白い 。 違う から 視野 が 広がる 。 違う から 成長 できる 。 大切 な の は お 互い を 思い 認める 気持ち 。 嫌い な 人 の いい ところ を 見つけ て み ませ ん か ? そんな 小さな 優し さ から 世界 は ちょっと ずつ 変わっ て いく と 私たち は 信じ て い ます 。 違う から 人 は 人 を 思う 。",
+    "korean": "싫어하는 사람을 칭찬해 보자. 달라서 재미있다. 달라서 시야가 넓어진다. 달라서 성장할 수 있다. 중요한 것은 서로를 생각하고 인정하는 마음. 싫어하는 사람의 좋은 점을 찾아보지 않겠습니까? 그런 작은 상냥함에서 세상은 조금씩 변해간다고 우리는 믿고 있습니다. 다르니까 사람은 사람을 생각한다.",
+    "english": "Let's praise someone we dislike. Different so interesting. Different so perspective widens. Different so we can grow. What's important is the heart to think of and acknowledge each other. Won't you try finding good points in someone you dislike? We believe the world changes little by little from such small kindness. Because we are different, people think of people.",
+    "words": [
+      {
+        "word": "嫌い",
+        "reading": "きらい",
+        "meaning": "싫어함 / dislike"
+      },
+      {
+        "word": "褒める",
+        "reading": "ほめる",
+        "meaning": "칭찬하다 / praise"
+      },
+      {
+        "word": "視野",
+        "reading": "しや",
+        "meaning": "시야 / perspective"
+      },
+      {
+        "word": "優しさ",
+        "reading": "やさしさ",
+        "meaning": "상냥함 / kindness"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 53,
+    "japanese": "1番 大切 な こと は 友達 で いる こと 。 それ は 近い 、 喜び だ から 友達 で いよう 。 必要 な 時 に 力 に なろう 。 くだら ない 冗談 に 笑おう 。 びっくり さ せ たい 。 一緒 に い たい 。 何 で も シェア し たい 。 友達 も あなた と 同じ こと を し たい はず 。 ただ そこ に いる だけ で いい 。 友達 。 あなた は 誰 か の 友達 ?",
+    "korean": "가장 소중한 것은 친구로 있는 것. 그것은 가까운, 기쁨이니까 친구로 있자. 필요할 때 힘이 되자. 시시한 농담에 웃자. 깜짝 놀라게 하고 싶다. 함께 있고 싶다. 뭐든지 공유하고 싶다. 친구도 당신과 같은 것을 하고 싶을 터. 그저 거기에 있는 것만으로도 좋은, 친구. 당신은 누군가의 친구?",
+    "english": "The most important thing is being friends. Because that is a close joy, let's be friends. Let's be strength when needed. Laugh at silly jokes. Want to surprise. Want to be together. Want to share everything. Your friend must want to do the same as you. Just being there is enough, friend. Are you someone's friend?",
+    "words": [
+      {
+        "word": "友達",
+        "reading": "ともだち",
+        "meaning": "친구 / friend"
+      },
+      {
+        "word": "喜び",
+        "reading": "よろこび",
+        "meaning": "기쁨 / joy"
+      },
+      {
+        "word": "冗談",
+        "reading": "じょうだん",
+        "meaning": "농담 / joke"
+      },
+      {
+        "word": "共有",
+        "reading": "きょうゆう",
+        "meaning": "공유 / share"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 54,
+    "japanese": "軽い 人 と いう 言葉 は きっと 褒め言葉 だ と 思う 。 肩 の 2 が 軽く なれ ば 前 より も 前 へ 行ける 。 くよくよ 1人 で 悩ん で いる 時 軽くっ て くれる 友人 が いれ ば 一緒 に 笑い合える 。 きっと 軽 いっ て いう の は 人間 に とっ て 大切 な 要素 な ん だ 。",
+    "korean": "가벼운 사람이라는 말은 분명 칭찬이라고 생각한다. 어깨의 짐이 가벼워지면 전보다 앞으로 갈 수 있다. 끙끙 혼자 고민하고 있을 때 가볍게 해주는 친구가 있다면 함께 웃을 수 있다. 분명 가볍다는 건 인간에게 있어서 중요한 요소인 거야.",
+    "english": "I think the phrase 'light person' is surely a compliment. If the burden on shoulders becomes light, you can go further forward than before. When worrying alone, if there is a friend who makes it light, you can laugh together. Surely being light is an important element for humans.",
+    "words": [
+      {
+        "word": "軽い",
+        "reading": "かるい",
+        "meaning": "가볍다 / light"
+      },
+      {
+        "word": "荷",
+        "reading": "に",
+        "meaning": "짐 / burden"
+      },
+      {
+        "word": "要素",
+        "reading": "ようそ",
+        "meaning": "요소 / element"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 55,
+    "japanese": "心 から 信頼 し て いる 人 を 思い浮かべ て ください 。 その 人 は イエスマン です か ? 私たち は お 客 様 に とっ て 耳 の 痛い 話 も 時 に は し ます 。 お 客 様 の 言葉 は 否定 し て は なら ない と いう 考え も ある でしょう 。 しかし 大切 な 資産 を 据え長く 守る 責任 が ある 以上 。 お 話しす べき こと は きちんと お 話し し ます 。 真 の アドバイス と は そう いう もの だ と 考え て い ます 。",
+    "korean": "진심으로 신뢰하고 있는 사람을 떠올려 주세요. 그 사람은 예스맨입니까? 저희는 고객에게 있어 귀 아픈 이야기도 때로는 합니다. 고객의 말은 부정해서는 안 된다는 생각도 있겠죠. 하지만 소중한 자산을 오래도록 지킬 책임이 있는 이상. 해야 할 이야기는 제대로 이야기합니다. 진정한 조언이란 그런 것이라고 생각하고 있습니다.",
+    "english": "Please picture someone you trust from the bottom of your heart. Is that person a Yes-man? We sometimes tell customers things that are painful to hear. There may be a thought that customers' words should not be denied. However, as long as we have the responsibility to protect precious assets for a long time, we will speak properly about what needs to be spoken. We believe true advice is like that.",
+    "words": [
+      {
+        "word": "信頼",
+        "reading": "しんらい",
+        "meaning": "신뢰 / trust"
+      },
+      {
+        "word": "耳の痛い",
+        "reading": "みみのいたい",
+        "meaning": "귀가 아픈(충고 등) / painful to hear"
+      },
+      {
+        "word": "資産",
+        "reading": "しさん",
+        "meaning": "자산 / asset"
+      },
+      {
+        "word": "助言",
+        "reading": "じょげん",
+        "meaning": "조언 / advice"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 56,
+    "japanese": "めちゃくちゃ 大事 な 友達 。 君 の 好き な 人 。 私 じゃ ない みたい 。 好 きっ て 言っ たら もう 会え なく なっ ちゃう の か な 。 で も で も で も 好き だ 。 私 を 前 へ 。",
+    "korean": "엄청나게 소중한 친구. 네가 좋아하는 사람. 내가 아닌 것 같아. 좋아한다고 말하면 이제 못 만나게 되어 버리는 걸까. 그래도 그래도 그래도 좋아해. 나를 앞으로.",
+    "english": "Extremely precious friend. The person you like. Doesn't seem to be me. If I say I like you, will I not be able to see you anymore? But, but, but I like you. Me, forward.",
+    "words": [
+      {
+        "word": "大事",
+        "reading": "だいじ",
+        "meaning": "소중함 / precious"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "meaning": "좋아함 / like, love"
+      },
+      {
+        "word": "会う",
+        "reading": "あう",
+        "meaning": "만나다 / meet"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 57,
+    "japanese": "70億 人 が 暮らす この 星 で 結ば れる 。 珍しい こと で は なく て も 奇跡 だ と 思っ た 。 結婚 し なく て も 幸せ に なれる この 時代 に 私 は あなた と 結婚 し たい の です 。",
+    "korean": "70억 명이 사는 이 별에서 맺어지다. 드문 일이 아니라도 기적이라고 생각했다. 결혼하지 않아도 행복해질 수 있는 이 시대에 나는 당신과 결혼하고 싶은 것입니다.",
+    "english": "Tying the knot on this planet where 7 billion people live. Even if not rare, I thought it was a miracle. In this era where one can be happy without marrying, I want to marry you.",
+    "words": [
+      {
+        "word": "結ばれる",
+        "reading": "むすばれる",
+        "meaning": "맺어지다 / be tied, connected"
+      },
+      {
+        "word": "珍しい",
+        "reading": "めずらしい",
+        "meaning": "드물다 / rare"
+      },
+      {
+        "word": "奇跡",
+        "reading": "きせき",
+        "meaning": "기적 / miracle"
+      },
+      {
+        "word": "結婚",
+        "reading": "けっこん",
+        "meaning": "결혼 / marriage"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 58,
+    "japanese": "ゴール イン する ため の 恋 じゃ なく 、 友達 に 自慢 する ため の 恋 じゃ なく 、 昔 の 恋 を なぞる よう な 恋 じゃ なく 、 どっち か が 不幸 に なる 恋 じゃ なく 、 黙っ た まま 誰 か を 思う 恋 じゃ なく 、 多分 1人 より 2人 の 方 が 人生 は 楽しい から 。",
+    "korean": "골인하기 위한 사랑이 아니라, 친구에게 자랑하기 위한 사랑이 아니라, 옛사랑을 덧그리는 듯한 사랑이 아니라, 어느 쪽이 불행해지는 사랑이 아니라, 입 다문 채 누군가를 생각하는 사랑이 아니라, 아마 혼자보다 둘이 인생은 즐거우니까.",
+    "english": "Not love to reach a goal, not love to brag to friends, not love tracing an old love, not love where one becomes unhappy, not love thinking of someone in silence, but probably because life is more fun for two than one.",
+    "words": [
+      {
+        "word": "友達",
+        "reading": "ともだち",
+        "meaning": "친구 / friend"
+      },
+      {
+        "word": "自慢",
+        "reading": "じまん",
+        "meaning": "자랑 / brag"
+      },
+      {
+        "word": "不幸",
+        "reading": "ふこう",
+        "meaning": "불행 / unhappiness"
+      },
+      {
+        "word": "楽しい",
+        "reading": "たのしい",
+        "meaning": "즐겁다 / fun"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 59,
+    "japanese": "本当 は 距離 に 負け そう な 自分 が 怖い の です 。 それ が 分かっ て いる から 今日 確か に あなた と 会っ た こと を 心 と 体 の どこ か に 焼きつけ て おき たい の です 。 あなた の 方 に 触れ て い たい の です 。 あなた の 唇 に 触れ て い たい の です 。 距離 に 試さ れ て 2人 は 強く なる 。",
+    "korean": "사실은 거리에 질 것 같은 내가 무서운 것입니다. 그것을 알고 있기에 오늘 확실히 당신과 만난 것을 몸과 마음 어딘가에 새겨두고 싶은 것입니다. 당신의 어깨에 닿아 있고 싶은 것입니다. 당신의 입술에 닿아 있고 싶은 것입니다. 거리에 시험받아 두 사람은 강해진다.",
+    "english": "Actually, I'm afraid of myself losing to distance. Knowing that, I want to burn the fact that I met you today somewhere in my body and mind. I want to be touching your shoulder. I want to be touching your lips. Tested by distance, the two become strong.",
+    "words": [
+      {
+        "word": "距離",
+        "reading": "きょり",
+        "meaning": "거리 / distance"
+      },
+      {
+        "word": "怖い",
+        "reading": "こわい",
+        "meaning": "무섭다 / scary"
+      },
+      {
+        "word": "焼き付ける",
+        "reading": "やきつける",
+        "meaning": "새기다, 굽다 / burn into (memory)"
+      },
+      {
+        "word": "触れる",
+        "reading": "ふれる",
+        "meaning": "닿다 / touch"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 60,
+    "japanese": "生まれ て き て お めでとう 。 生まれ て き て くれ て ありがとう 。 これ から 始まる 毎日 を 一緒 に 楽しもう 。 嫌 な こと 、 悲しい こと も 一緒 なら 乗り越え られる 。 あなた の そば で 夢 見る 毎日 。 生まれ た だけ で 最高 な の だ 。",
+    "korean": "태어나줘서 축하해. 태어나줘서 고마워. 지금부터 시작되는 매일을 함께 즐기자. 싫은 일, 슬픈 일도 함께라면 넘즐 수 있다. 당신 곁에서 꿈꾸는 매일. 태어난 것만으로 최고인 것이다.",
+    "english": "Congratulations on being born. Thank you for being born. Let's enjoy the days starting from now together. Unpleasant things, sad things, we can overcome them if together. Dreaming every day by your side. Just being born is the best.",
+    "words": [
+      {
+        "word": "生まれる",
+        "reading": "うまれる",
+        "meaning": "태어나다 / be born"
+      },
+      {
+        "word": "おめでとう",
+        "reading": "おめでとう",
+        "meaning": "축하해 / congratulations"
+      },
+      {
+        "word": "乗り越える",
+        "reading": "のりこえる",
+        "meaning": "극복하다 / overcome"
+      },
+      {
+        "word": "最高",
+        "reading": "さいこう",
+        "meaning": "최고 / best"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 61,
+    "japanese": "名前 は 親 が 子供 に 送る 初めて の 手紙 な の か も しれ ない 。 わずか 1 文字 か 2 文字 だ から こそ 親 は 悩む 。 こんな 子 に 育っ て ほしい 。 いや 、 元気 で あれ ば それ で いい 。 とにかく 生まれ て き て くれ て ありがとう 。 溢れる 思い を 胸 に 髪 に 向かう 。 お腹 の 生命 に 語りかけ ながら ペン を 動かす 。 何 度 も 書い て 、 何 度 も 考え て 、 また 書く 。 そう やっ て 大切 に つけ られ た 名前 。 それ は 親 が 子供 に 送る 一通 の 手紙 な の だ と 思う の です 。",
+    "korean": "이름은 부모가 아이에게 보내는 첫 편지인지도 모른다. 고작 한 글자나 두 글자이기에 부모는 고민한다. 이런 아이로 자라주길. 아니, 건강하다면 그걸로 좋아. 어쨌든 태어나줘서 고마워. 넘치는 마음을 가슴에 종이를 향한다. 뱃속의 생명에게 말을 걸며 펜을 움직인다. 몇 번이고 쓰고, 몇 번이고 생각하고, 다시 쓴다. 그렇게 해서 소중하게 지어진 이름. 그것은 부모가 아이에게 보내는 한 통의 편지인 것이라고 생각합니다.",
+    "english": "A name might be the first letter parents send to their child. Because it's only one or two characters, parents worry. Hope you grow up like this. No, if you're healthy, that's enough. Anyway, thank you for being born. With overflowing feelings in heart, facing the paper. Moving the pen while talking to the life in the belly. Writing again and again, thinking again and again, writing again. A name given preciously that way. I think that is one letter sent from parents to the child.",
+    "words": [
+      {
+        "word": "名前",
+        "reading": "なまえ",
+        "meaning": "이름 / name"
+      },
+      {
+        "word": "手紙",
+        "reading": "てがみ",
+        "meaning": "편지 / letter"
+      },
+      {
+        "word": "悩む",
+        "reading": "なやむ",
+        "meaning": "고민하다 / worry"
+      },
+      {
+        "word": "溢れる",
+        "reading": "あふれる",
+        "meaning": "넘치다 / overflow"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 62,
+    "japanese": "1人 で 食事 する 時 、 あの 人 が そば に い たら と 思い ませ ん か ? 1人 で 食事 する 時 、 誰 か の ため に 料理 し たい と 思い ませ ん か ? 1人 で 食事 する 時 、 それ は ただ 食事 を する と いう 行為 だ と 思い ませ ん か ? 家族 、 食育 、 平和 、 愛 は 食卓 に ある 。 ።",
+    "korean": "혼자 식사할 때, 그 사람이 곁에 있다면 하고 생각하지 않습니까? 혼자 식사할 때, 누군가를 위해 요리하고 싶다고 생각하지 않습니까? 혼자 식사할 때, 그건 단지 식사를 한다는 행위라고 생각하지 않습니까? 가족, 식육(식생활 교육), 평화, 사랑은 식탁에 있다.",
+    "english": "When eating alone, don't you wish that person was by your side? When eating alone, don't you want to cook for someone? When eating alone, don't you think it's just the act of eating? Family, dietary education, peace, love are at the dining table.",
+    "words": [
+      {
+        "word": "食事",
+        "reading": "しょくじ",
+        "meaning": "식사 / meal"
+      },
+      {
+        "word": "側",
+        "reading": "そば",
+        "meaning": "곁 / side"
+      },
+      {
+        "word": "行為",
+        "reading": "こうい",
+        "meaning": "행위 / act"
+      },
+      {
+        "word": "食卓",
+        "reading": "しょくたく",
+        "meaning": "식탁 / dining table"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 63,
+    "japanese": "幸福 は ご飯 が 炊か れる 場所 に ある 。 食事 を する 時 、 人 は 幸せ で い て 欲しい 。 私たち は 心 から そう 考え て い ます 。 1人 の 時 も 慌たしく 食べる 時 も 、 仕事 を たっぷり 抱え て いる 時 も 、 もちろん 大好き な 人 と 一緒 に いる 時 も だっ て 食べる こと は 人 が 生き て いく ため に 1番 大切 な こと な の です から 。",
+    "korean": "행복은 밥이 지어지는 곳에 있다. 식사할 때, 사람은 행복해 줬으면 한다. 우리는 진심으로 그렇게 생각하고 있습니다. 혼자일 때도, 황급히 먹을 때도, 일을 잔뜩 안고 있을 때도, 물론 좋아하는 사람과 함께 있을 때도 말이죠. 먹는 것은 사람이 살아가는 데 있어 가장 중요한 것이니까요.",
+    "english": "Happiness is where rice is cooked. When eating, we want people to be happy. We sincerely think so. Even when alone, even when eating hurriedly, even when having a lot of work, and of course when with a loved one. Because eating is the most important thing for people to live.",
+    "words": [
+      {
+        "word": "幸福",
+        "reading": "こうふく",
+        "meaning": "행복 / happiness"
+      },
+      {
+        "word": "炊く",
+        "reading": "たく",
+        "meaning": "밥을 짓다 / cook rice"
+      },
+      {
+        "word": "慌ただしい",
+        "reading": "あわただしい",
+        "meaning": "분주하다, 황급하다 / busy, hurried"
+      },
+      {
+        "word": "大切",
+        "reading": "たいせつ",
+        "meaning": "소중함 / important"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 64,
+    "japanese": "全て の 思い出 は 人 と 時間 と 場所 で でき て いる 。 あの 居酒屋 を 見る と 会社 の 同期 を 思い出す 。 あの 和食 の 店 を 見る と 友達 と の 恋愛話 を 思い出す 。 あの イタリアン の 店 を 見る と 初めて の 合 を 思い出す あの 美容 室 を 見る 。 と デート 前 の 待ち合わせ を 思い出す 。 あの 料理 教室 を 見る と 結婚 し たかっ た 気持ち を 思い出す 。 あの カフェ を 見る と 夫 と 次 に 行く 店 を 探し て い た こと を 思い出す 。",
+    "korean": "모든 추억은 사람과 시간과 장소로 이루어져 있다. 그 이자카야를 보면 회사 동기를 떠올린다. 그 일식집을 보면 친구와의 연애 이야기를 떠올린다. 그 이탈리안 가게를 보면 첫 미팅을 떠올린다. 그 미용실을 보면 데이트 전의 약속을 떠올린다. 그 요리 교실을 보면 결혼하고 싶었던 마음을 떠올린다. 그 카페를 보면 남편과 다음에 갈 가게를 찾고 있던 것을 떠올린다.",
+    "english": "All memories are made of people, time, and places. Seeing that izakaya reminds me of my office colleague. Seeing that Japanese restaurant reminds me of love talk with friends. Seeing that Italian place reminds me of my first blind date. Seeing that hair salon reminds me of waiting before a date. Seeing that cooking class reminds me of wanting to get married. Seeing that cafe reminds me of looking for the next restaurant to go to with my husband.",
+    "words": [
+      {
+        "word": "思い出",
+        "reading": "おもいで",
+        "meaning": "추억 / memory"
+      },
+      {
+        "word": "同期",
+        "reading": "どうき",
+        "meaning": "동기 / colleague (same intake)"
+      },
+      {
+        "word": "合コン",
+        "reading": "ごうこん",
+        "meaning": "미팅 / mixer, blind date"
+      },
+      {
+        "word": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "떠올리다 / remember"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 65,
+    "japanese": "他人 の ため に 生きる 。 それ が 幸せ に 生きる こと か も しれ ない 。 最近 そんな こと を 思い まし た 。 名前 も 知ら ない 人 の ため に 、 顔 も 知ら ない 人 の ため に 。 そんな 風 に 生きる 人 が どう しよう も なく 美しく 見え ます 。 年 を 取っ た から でしょう か 。 で も その こと に気 が つい て から この 世界 も まだまだ 心地 の 良い もの に できる の で は ない か と 考え たり も し ます 。",
+    "korean": "타인을 위해 산다. 그것이 행복하게 사는 것일지도 모른다. 최근 그런 생각을 했습니다. 이름도 모르는 사람을 위해, 얼굴도 모르는 사람을 위해. 그런 식으로 사는 사람이 어쩔 수 없이 아름답게 보입니다. 나이를 먹어서일까요? 하지만 그 사실을 깨닫고 나서 이 세상도 아직 꽤 기분 좋은 곳으로 만들 수 있지 않을까 생각하기도 합니다.",
+    "english": "Living for others. That might be living happily. I thought about that recently. For someone whose name I don't know, for someone whose face I don't know. People who live like that look helplessly beautiful. Is it because I got old? But after realizing that, I also think maybe we can still make this world a comfortable place.",
+    "words": [
+      {
+        "word": "他人",
+        "reading": "たにん",
+        "meaning": "타인 / others"
+      },
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "meaning": "아름답다 / beautiful"
+      },
+      {
+        "word": "心地よい",
+        "reading": "ここちよい",
+        "meaning": "기분 좋다 / comfortable, pleasant"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 66,
+    "japanese": "1人1人 の クライマックス 始まる 。 一瞬 が 積み重なっ て 一生 を 作る だ と し たら それ は 美しい 一瞬 で あっ て 欲しい と 思い ます 。 木度 愛楽 を 大切 に 心 と 体 の 声 を 信じ て 結果 的 に 楽しく 生きる こと 。 そう いう 瞬間 を 集め て 人生 は 美し さ を 増し 、 続い て 行く の か も しれ ませ ん 。 一瞬 も 一生 も 美しく",
+    "korean": "한 사람 한 사람의 클라이맥스 시작된다. 한 순간이 쌓여 일생을 만든다고 한다면 그것은 아름다운 한 순간이었으면 좋겠다고 생각합니다. 희로애락을 소중히, 몸과 마음의 소리를 믿고 결과적으로 즐겁게 사는 것. 그런 순간을 모아서 인생은 아름다움을 더하고, 이어져 가는 것일지도 모릅니다. 한 순간도 일생도 아름답게.",
+    "english": "Each person's climax begins. If moments pile up to make a lifetime, I want those to be beautiful moments. Cherishing joy, anger, sorrow, and pleasure, believing the voice of body and mind, and living happily as a result. By collecting such moments, life might increase in beauty and continue on. Beautifully for a moment, beautifully for a lifetime.",
+    "words": [
+      {
+        "word": "一瞬",
+        "reading": "いっしゅん",
+        "meaning": "일순간 / moment"
+      },
+      {
+        "word": "一生",
+        "reading": "いっしょう",
+        "meaning": "일생 / lifetime"
+      },
+      {
+        "word": "喜怒哀楽",
+        "reading": "きどあいらく",
+        "meaning": "희로애락 / emotions"
+      },
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "meaning": "아름답다 / beautiful"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 67,
+    "japanese": "恋 を し ましょう 。 皆 さん 恋 を し ましょう 。 誰 か を 好き に なり ましょう 。 そして 自分 を 好き に なり ましょう 。 皆 さん 恋 を し ましょう 。 それ は 世界 を 新しく し ます から 。 知ら なかっ た 歌 を 好き に なっ たり し ます から 。 ご飯 が 美味しく なっ たり し ます から 。 深呼吸 の 意味 を 変え たり し ます から 。 それ は 嘘 の 悲し さ を 教え て くれ ます から 。 たえ それ が 終わっ て も きっと 何か を 残し て くれ ます から 。",
+    "korean": "사랑을 합시다. 여러분 사랑을 합시다. 누군가를 좋아하게 됩시다. 그리고 자신을 좋아하게 됩시다. 여러분 사랑을 합시다. 그것은 세상을 새롭게 하니까요. 몰랐던 노래를 좋아하게 되거나 하니까요. 밥이 맛있어지거나 하니까요. 심호흡의 의미를 바꾸거나 하니까요. 그것은 거짓말의 슬픔을 가르쳐 주니까요. 설령 그것이 끝나더라도 분명 무언가를 남겨 주니까요.",
+    "english": "Let's fall in love. Everyone, let's fall in love. Let's come to like someone. And let's come to like ourselves. Everyone, let's fall in love. Because it makes the world new. Because you might come to like songs you didn't know. Because food might become delicious. Because it might change the meaning of deep breaths. Because it teaches the sadness of lies. Because even if it ends, it surely leaves something behind.",
+    "words": [
+      {
+        "word": "恋",
+        "reading": "こい",
+        "meaning": "사랑 / love"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "meaning": "좋아함 / like"
+      },
+      {
+        "word": "深呼吸",
+        "reading": "しんこきゅう",
+        "meaning": "심호흡 / deep breath"
+      },
+      {
+        "word": "悲しさ",
+        "reading": "かなしさ",
+        "meaning": "슬픔 / sadness"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 68,
+    "japanese": "暗記 し た 言葉 は いつ か 忘れる 。 応援 さ れ た 言葉 は 一生 忘れ ない 。 繋がっ た 思い は 強い 力 に なる 。",
+    "korean": "암기한 말은 언젠가 잊는다. 응원받은 말은 평생 잊지 않는다. 이어진 마음은 강한 힘이 된다.",
+    "english": "Memorized words are forgotten someday. Words of encouragement are never forgotten in a lifetime. Connected feelings become strong power.",
+    "words": [
+      {
+        "word": "暗記",
+        "reading": "あんき",
+        "meaning": "암기 / memorization"
+      },
+      {
+        "word": "応援",
+        "reading": "おうえん",
+        "meaning": "응원 / encouragement"
+      },
+      {
+        "word": "一生",
+        "reading": "いっしょう",
+        "meaning": "평생 / lifetime"
+      },
+      {
+        "word": "繋がる",
+        "reading": "つながる",
+        "meaning": "이어지다 / connect"
+      }
+    ],
+    "category": "인생"
+  },
+  {
+    "id": 69,
+    "japanese": "新しい 時代 を 君 と 作る 。 新しい 時代 を 作る の は 他 の 誰 か じゃ なく て 君 な ん だ 。 若い 力 と 才能 が 未来 を 切り開き 世の中 を 変え て いく 。 今 この 時代 に こそ 君 の 力 を 思いきり 発揮 し て ほしい 。 恐れ ず に 自信 を 持っ て",
+    "korean": "새로운 시대를 너와 만든다. 새로운 시대를 만드는 건 다른 누군가가 아니라 너야. 젊은 힘과 재능이 미래를 개척하고 세상을 바꾸어 간다. 지금 이 시대야말로 너의 힘을 마음껏 발휘해 주었으면 한다. 두려워 말고 자신감을 가지고.",
+    "english": "Building a new era with you. Creating a new era isn't someone else's job, it's yours. Young power and talent open up the future and change the world. In this very era, I want you to unleash your power to the fullest. Without fear, with confidence.",
+    "words": [
+      {
+        "word": "時代",
+        "reading": "じだい",
+        "meaning": "시대 / era"
+      },
+      {
+        "word": "才能",
+        "reading": "さいのう",
+        "meaning": "재능 / talent"
+      },
+      {
+        "word": "発揮",
+        "reading": "はっき",
+        "meaning": "발휘 / demonstrate, exhibit"
+      },
+      {
+        "word": "恐れる",
+        "reading": "おそれる",
+        "meaning": "두려워하다 / fear"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 70,
+    "japanese": "見せ て やれ 。 そこ から やれる こと は やっ て き た 。 逃げ なかっ た 。 そう 、 心 の 底 から 腹 の 底 から 思える 努力 の こと を 人 は 底力 からって 呼ぶ ん だ と 思う 。 大丈夫 。 君 は 逃げ なかっ た 。",
+    "korean": "보여줘라. 저력. 할 수 있는 일은 해왔다. 도망치지 않았다. 그래, 마음속 깊은 곳에서, 배 속 깊은 곳에서 생각할 수 있는 노력을 사람들은 저력(밑심)이라고 부르는 거라고 생각한다. 괜찮아. 너는 도망치지 않았다.",
+    "english": "Show them. Potential power(Guts). Done what could be done. Didn't run away. Yes, effort that you can feel from the bottom of your heart and gut is what people call latent power. It's okay. You didn't run away.",
+    "words": [
+      {
+        "word": "底力",
+        "reading": "そこぢから",
+        "meaning": "저력, 밑심 / latent power, guts"
+      },
+      {
+        "word": "逃げる",
+        "reading": "にげる",
+        "meaning": "도망치다 / run away"
+      },
+      {
+        "word": "腹の底",
+        "reading": "はらのそこ",
+        "meaning": "배 속 깊은 곳(진심) / bottom of one's heart/gut"
+      },
+      {
+        "word": "努力",
+        "reading": "どりょく",
+        "meaning": "노력 / effort"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 71,
+    "japanese": "覚える だけ の 知識 が 欲しい わけ じゃ ない 。 固定 観念 に 縛ら れ たく ない 。 人間 に しか でき ない こと が し たい 。 なん と なく 大人 に なる な 。",
+    "korean": "외우기만 하는 지식을 원하는 게 아니다. 고정관념에 얽매이고 싶지 않다. 인간만이 할 수 있는 일을 하고 싶다. 적당히 어른이 되지 마라.",
+    "english": "I don't just want knowledge to memorize. I don't want to be bound by stereotypes. I want to do what only humans can do. Don't become an adult just somehow.",
+    "words": [
+      {
+        "word": "知識",
+        "reading": "ちしき",
+        "meaning": "지식 / knowledge"
+      },
+      {
+        "word": "固定観念",
+        "reading": "こていかんねん",
+        "meaning": "고정관념 / stereotype"
+      },
+      {
+        "word": "縛られる",
+        "reading": "しばられる",
+        "meaning": "얽매이다 / be bound"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 72,
+    "japanese": "決め られ た 常識 や ルール に 縛ら れ ず 思い を 形 に し て いく 。 これ から の 社会 に 必要 な の は そんな 人 たち だ 。 あなた は どう だ ? なん だっ て できる はず 。 誰 か で 終わる な 。",
+    "korean": "정해진 상식이나 규칙에 얽매이지 않고 생각을 형태로 만들어 간다. 앞으로의 사회에 필요한 것은 그런 사람들이다. 당신은 어떤가? 뭐든지 할 수 있을 터. 누군가로 끝나지 마라.",
+    "english": "Creating forms from thoughts without being bound by set common sense or rules. What future society needs is such people. How about you? You should be able to do anything. Don't end up just being someone.",
+    "words": [
+      {
+        "word": "常識",
+        "reading": "じょうしき",
+        "meaning": "상식 / common sense"
+      },
+      {
+        "word": "形",
+        "reading": "かたち",
+        "meaning": "형태 / form"
+      },
+      {
+        "word": "社会",
+        "reading": "しゃかい",
+        "meaning": "사회 / society"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 73,
+    "japanese": "美 の 大き さ 。 美 と は 何 だろう か ? あなた に とっ て 、 人間 に とっ て 、 世界 に とっ て 美 は 何 の 役 に 立つ だろう か 。 知識 だけ が 教育 で は ない 。 人間 は ハードディスク で は ない 。",
+    "korean": "아름다움의 크기. 아름다움이란 무엇일까? 당신에게 있어, 인간에게 있어, 세계에 있어 아름다움은 무슨 도움이 될까. 지식만이 교육은 아니다. 인간은 하드디스크가 아니다.",
+    "english": "The magnitude of beauty. What is beauty? For you, for humans, for the world, what use is beauty? Knowledge alone is not education. Humans are not hard disks.",
+    "words": [
+      {
+        "word": "美",
+        "reading": "び",
+        "meaning": "아름다움(미) / beauty"
+      },
+      {
+        "word": "役に立つ",
+        "reading": "やくにたつ",
+        "meaning": "도움이 되다 / receive help"
+      },
+      {
+        "word": "教育",
+        "reading": "きょういく",
+        "meaning": "교육 / education"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 74,
+    "japanese": "初め に 誰 か が 引い た 。 やがて それ が 国境 に なっ た 。 人 は 不思議 です 。 地図 に 1 つ 線 を 引く だけ で 壁 が 生まれ 、 争い が 起きる 。 男女 言語 文化 の 違い 違い を 意識 すれ ば する ほど 壁 は 高く なる 。 私たち が 求め て いる の は 物事 と の 枠組 に囚われ ず 働ける 人 。 本質 を 見極め さらに 社会 を 良く する ため に 働ける 人 。 今 より もっと 世界 を 素晴らしく その 思い に 共感 する 人 に 出会い たい の です 。",
+    "korean": "처음에 누군가가 선을 그었다. 이윽고 그것이 국경이 되었다. 사람은 신기합니다. 지도에 선 하나를 그을 뿐인데 벽이 생기고, 싸움이 일어난다. 남녀, 언어, 문화의 차이. 차이를 의식하면 할수록 벽은 높아진다. 우리가 구하고 있는 것은 사물의 틀에 얽매이지 않고 일할 수 있는 사람. 본질을 꿰뚫어 보고 더욱 사회를 좋게 하기 위해 일할 수 있는 사람. 지금보다 더 세계를 멋지게. 그 마음에 공감하는 사람을 만나고 싶은 것입니다.",
+    "english": "Someone drew a line first. Eventually it became a border. Humans are strange. Just drawing one line on a map creates walls and causes conflicts. Gender, language, cultural differences. The more we are conscious of differences, the higher the walls become. What we are looking for is someone who can work without being bound by frameworks. Someone who sees the essence and works to make society better. Make the world more wonderful than now. We want to meet people who resonate with that thought.",
+    "words": [
+      {
+        "word": "国境",
+        "reading": "こっきょう",
+        "meaning": "국경 / border"
+      },
+      {
+        "word": "壁",
+        "reading": "かべ",
+        "meaning": "벽 / wall"
+      },
+      {
+        "word": "本質",
+        "reading": "ほんしつ",
+        "meaning": "본질 / essence"
+      },
+      {
+        "word": "共感",
+        "reading": "きょうかん",
+        "meaning": "공감 / empathy"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 75,
+    "japanese": "たった 1 本 の 鉛筆 に できる こと 。 今日 は どんな 旅 に 出よう ? 何 を 探し に 行こう ? 迷い も 絶望 も ある だろう 。 で も 楽しい 風 は 吹い て いる 。 君 が 自由 に 夢 を 描ける よう に この 小さな 教室 を 地球 より 大きく し たい と 思う 。",
+    "korean": "단 한 자루의 연필로 할 수 있는 일. 오늘은 어떤 여행을 떠날까? 무엇을 찾으러 갈까? 망설임도 절망도 있겠지. 하지만 즐거운 바람은 불고 있다. 네가 자유롭게 꿈을 그릴 수 있도록 이 작은 교실을 지구보다 크게 하고 싶다고 생각한다.",
+    "english": "What a single pencil can do. What journey shall we take today? What shall we go look for? There may be hesitation and despair. But a fun wind is blowing. I want to make this small classroom bigger than the earth so you can freely draw your dreams.",
+    "words": [
+      {
+        "word": "鉛筆",
+        "reading": "えんぴつ",
+        "meaning": "연필 / pencil"
+      },
+      {
+        "word": "旅",
+        "reading": "たび",
+        "meaning": "여행 / journey"
+      },
+      {
+        "word": "絶望",
+        "reading": "ぜつぼう",
+        "meaning": "절망 / despair"
+      },
+      {
+        "word": "描く",
+        "reading": "えがく",
+        "meaning": "그리다 / draw, depict"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 76,
+    "japanese": "可能 性 だけ が ある 君 たち へ 。 自分 は まだ 力 を 出せ て い ない と 感じ て いる 君 。 それ は 正しい 。 人間 の 能力 の 限界 は まだ 分かっ て い ない 。 君 の 中 に どれ だけ 力 が 眠っ て いる の か 分かっ て い ない の だ 。 ただ その 潜在 能力 は 心 と 体 の バランス が 取れ た 時 引き出さ れる こと が 分かっ て いる 。 自分 は きっと 想像 以上 だ 。",
+    "korean": "가능성만이 있는 너희들에게. 자신은 아직 힘을 내지 못하고 있다고 느끼고 있는 너. 그것은 올바르다. 인간 능력의 한계는 아직 알려지지 않았다. 네 안에 얼마나 많은 힘이 잠자고 있는지 알 수 없다. 단지 그 잠재 능력은 몸과 마음의 균형이 잡혔을 때 끌어내진다는 것을 알고 있다. 자신은 분명 상상 이상이다.",
+    "english": "To you who have only possibilities. You who feel you aren't showing your power yet. That is correct. The limits of human ability are not yet known. We don't know how much power lies dormant within you. We only know that latent potential is drawn out when body and mind are balanced. You are surely beyond imagination.",
+    "words": [
+      {
+        "word": "可能性",
+        "reading": "かのうせい",
+        "meaning": "가능성 / possibility"
+      },
+      {
+        "word": "限界",
+        "reading": "げんかい",
+        "meaning": "한계 / limit"
+      },
+      {
+        "word": "潜在能力",
+        "reading": "せんざいのうりょく",
+        "meaning": "잠재능력 / potential"
+      },
+      {
+        "word": "想像",
+        "reading": "そうぞう",
+        "meaning": "상상 / imagination"
+      }
+    ],
+    "category": "인생"
+  },
+  {
+    "id": 77,
+    "japanese": "自分 の 限界 を 自分 で 決め て い ない か ? 過去 の 常識 に 縛ら れ て い ない か ? 今 まで の 枠 の 中 に 未来 は ない から 。 僕 たち は 何 に で も なれる 。 僕 たち は どこ へ で も 行ける 。 枠 に はまる な 。",
+    "korean": "자신의 한계를 스스로 정하고 있지 않은가? 과거의 상식에 얽매여 있지 않은가? 지금껏 있던 틀 속에 미래는 없으니까. 우리는 무엇이든 될 수 있다. 우리는 어디로든 갈 수 있다. 틀에 박히지 마라.",
+    "english": "Aren't you setting your own limits? Aren't you bound by past common sense? Because the future isn't inside the boxes (frames) that existed until now. We can become anything. We can go anywhere. Don't get stuck in a mold.",
+    "words": [
+      {
+        "word": "限界",
+        "reading": "げんかい",
+        "meaning": "한계 / limit"
+      },
+      {
+        "word": "常識",
+        "reading": "じょうしき",
+        "meaning": "상식 / common sense"
+      },
+      {
+        "word": "枠",
+        "reading": "わく",
+        "meaning": "틀 / frame, box"
+      },
+      {
+        "word": "未来",
+        "reading": "みらい",
+        "meaning": "미래 / future"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 78,
+    "japanese": "何 も し なけれ ば 何 も 起き ない 。 行か なけれ ば それ は やっ て こ ない 。 飛び出さ なけれ ば 世界 は 変わら ない 。 全て の 人 の 心 に 翼 は ある 。 使う か 使わ ない か 。 世界 は 待っ て いる 。 飛ぶ か 飛ば ない か 。 海 を 超えよう 。 言葉 を 超えよう 。 機能 を 超えよう 。 空 を 飛ぼう 。",
+    "korean": "아무것도 하지 않으면 아무 일도 일어나지 않는다. 가지 않으면 그건 찾아오지 않는다. 뛰쳐나가지 않으면 세상은 바뀌지 않는다. 모든 사람의 마음에 날개는 있다. 쓸 것인가 쓰지 않을 것인가. 세상은 기다리고 있다. 날 것인가 날지 않을 것인가. 바다를 넘자. 말을 넘자. 어제를 넘자. 하늘을 날자.",
+    "english": "If you do nothing, nothing happens. If you don't go, it won't come. If you don't jump out, the world won't change. Everyone has wings in their heart. To use them or not. The world is waiting. To fly or not. Let's cross the sea. Let's cross words. Let's cross yesterday. Let's fly in the sky.",
+    "words": [
+      {
+        "word": "翼",
+        "reading": "つばさ",
+        "meaning": "날개 / wings"
+      },
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "세상 / world"
+      },
+      {
+        "word": "超える",
+        "reading": "こえる",
+        "meaning": "넘다 / cross, exceed"
+      },
+      {
+        "word": "飛ぶ",
+        "reading": "とぶ",
+        "meaning": "날다 / fly"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 79,
+    "japanese": "でき ない に ヒント が ある 。 誰 か の でき ない を 追求 する と みんな できる が 見つかる 。 きっと 大丈夫 だろう 。 みんな に も できる はず だ 。 そんな 楽観 も よく ある こと 。 で も それ こそ が 実際 に 使っ て みる と 使い にくい もの を 生み出す 原因 で も あり ます 。 大切 な の は でき ない の が 当たり前 と いう 前提 に 立ち 、 誰 で も できる を 目指す こと 。",
+    "korean": "'할 수 없음'에 힌트가 있다. 누군가의 '할 수 없음'을 추구하면 모두의 '할 수 있음'이 발견된다. 분명 괜찮겠지. 모두에게도 가능할 거야. 그런 낙관도 자주 있는 일. 하지만 그것이야말로 실제로 써 보면 쓰기 어려운 것을 낳는 원인이기도 합니다. 중요한 것은 할 수 없는 게 당연하다는 전제에 서서, 누구라도 할 수 있음을 목표로 하는 것.",
+    "english": "There is a hint in 'cannot do'. Pursuing someone's inability leads to finding everyone's ability. It must be okay. Everyone should be able to do it. Such optimism is common. But that is also the cause of creating things that are hard to use when actually used. The important thing is to stand on the premise that inability is natural, and aim for 'anyone can do it'.",
+    "words": [
+      {
+        "word": "追求",
+        "reading": "ついきゅう",
+        "meaning": "추구 / pursuit"
+      },
+      {
+        "word": "発見",
+        "reading": "はっけん",
+        "meaning": "발견 / discovery"
+      },
+      {
+        "word": "前提",
+        "reading": "ぜんてい",
+        "meaning": "전제 / premise"
+      },
+      {
+        "word": "目標",
+        "reading": "もくひょう",
+        "meaning": "목표 / goal"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 80,
+    "japanese": "不 可能 と は 事実 で すら なく 単なる 潜入 感 だ 。 不 可能 と は 誰 か に 決めつけ られる こと で は ない 。 不 可能 と は 通過 点 だ 。 不 可能 と は 可能 性 だ 。 不 可能 なんて あり え ない 。",
+    "korean": "불가능이란 사실조차 아니며 단순한 선입관이다. 불가능이란 누군가에게 단정 지어지는 것이 아니다. 불가능이란 통과점이다. 불가능이란 가능성이다. 불가능 따위 있을 수 없다.",
+    "english": "Impossible is not even a fact, just a preconception. Impossible is not something to be decided by someone. Impossible is a passing point. Impossible is potential. Impossible is nothing.",
+    "words": [
+      {
+        "word": "不可能",
+        "reading": "ふかのう",
+        "meaning": "불가능 / impossible"
+      },
+      {
+        "word": "事実",
+        "reading": "じじつ",
+        "meaning": "사실 / fact"
+      },
+      {
+        "word": "先入観",
+        "reading": "せんにゅうかん",
+        "meaning": "선입관 / prejudice"
+      },
+      {
+        "word": "通過点",
+        "reading": "つうかてん",
+        "meaning": "통과점 / passing point"
+      }
+    ],
+    "category": "인생"
+  },
+  {
+    "id": 81,
+    "japanese": "いつ だっ て 僕 ら を 突き動かす の は 好奇心 だ 。 好き な こと を やる だけ で 食っ て は いけ ない 。 で も 好き な こと を やら なかっ たら 人生 は つまら ない 。 面白い から やる 。",
+    "korean": "언제나 우리를 움직이는 것은 호기심이다. 좋아하는 것을 하는 것만으로는 먹고살 수 없다. 하지만 좋아하는 것을 하지 않으면 인생은 재미없다. 재미있으니까 한다.",
+    "english": "It is always curiosity that drives us. You can't make a living just doing what you like. But if you don't do what you like, life is boring. I do it because it's interesting.",
+    "words": [
+      {
+        "word": "好奇心",
+        "reading": "こうきしん",
+        "meaning": "호기심 / curiosity"
+      },
+      {
+        "word": "人生",
+        "reading": "じんせい",
+        "meaning": "인생 / life"
+      },
+      {
+        "word": "面白い",
+        "reading": "おもしろい",
+        "meaning": "재미있다 / interesting"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 82,
+    "japanese": "今 を 生きる 人 が 1番 強い 。 あらゆる こと が 計算 で 予測 さ れる 時代 。 今 や 世界 は 未来 を 折り込み 、 人々 は 未来 から の 逆算 で 現在 を 生き て いる けれど それ は 今 を 生きる こと に なる の だろう か 。 想定 内 の 未来 は 私たち の 可能 性 を 小さく する だけ 。 時間 を 忘れる ほど 何か に 没頭 し 、 今 この 瞬間 に 全て の 情熱 を 注い で き た 人 たち こそ が 時代 を 変え て き た 。 大谷 翔平 選手 も また そんな 1人 だ 。 私たち も 全力 で この 瞬間 を 生きよう 。 未来 の ため に 今 が ある の で は なく 、 今 を 大切 に し た 先 に 未来 が ある の だ から 。",
+    "korean": "지금을 사는 사람이 가장 강하다. 온갖 것이 계산으로 예측되는 시대. 이제 세계는 미래를 반영하고, 사람들은 미래로부터의 역산으로 현재를 살고 있지만, 그것은 지금을 사는 것이 되는 걸까. 상정 내의 미래는 우리의 가능성을 작게 할 뿐. 시간을 잊을 정도로 무언가에 몰두하고, 지금 이 순간에 모든 정열을 쏟아온 사람들이야말로 시대를 바꾸어 왔다. 오타니 쇼헤이 선수 또한 그런 한 사람이다. 우리도 전력으로 이 순간을 살자. 미래를 위해 지금이 있는 것이 아니라, 지금을 소중히 한 끝에 미래가 있으니까.",
+    "english": "Those who live in the now are the strongest. An era where everything is predicted by calculation. Now the world factors in the future, and people live the present by caculating backwards from the future, but does that count as living in the now? A predictable future only shrinks our potential. Those who immersed themselves in something enough to forget time, and poured all their passion into this moment, are the ones who changed the era. Shohei Ohtani is also one of them. Let's also live this moment with full power. Because the present doesn't exist for the future, but the future exists at the end of cherishing the present.",
+    "words": [
+      {
+        "word": "予測",
+        "reading": "よそく",
+        "meaning": "예측 / prediction"
+      },
+      {
+        "word": "逆算",
+        "reading": "ぎゃくさん",
+        "meaning": "역산 / counting backwards"
+      },
+      {
+        "word": "没頭",
+        "reading": "ぼっとう",
+        "meaning": "몰두 / immersion"
+      },
+      {
+        "word": "情熱",
+        "reading": "じょうねつ",
+        "meaning": "정열 / passion"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 83,
+    "japanese": "青 が 舞う 。 夢 が 僕 ら を 追いかける よう に 。 時 が 僕 ら を 追いかける よう に 。 走れ 、 走れ 、 走り 続けよう 。 始まり の 声 が 響い て いる 。 夢 が 僕 ら を 追いかける よう に 。 時 が 僕 ら を 追いかける よう に 。 走れ 、 走れ 。 生き て いる 味 が する 。",
+    "korean": "파랑이 춤춘다. 꿈이 우리를 쫓아오듯이. 시간이 우리를 쫓아오듯이. 달려라, 달려라, 계속달리자. 시작의 목소리가 울리고 있다. 꿈이 우리를 쫓아오듯이. 시간이 우리를 쫓아오듯이. 달려라, 달려라. 살아있는 맛이 난다.",
+    "english": "Blue dances. As if dreams are chasing us. As if time is chasing us. Run, run, let's keep running. The voice of the beginning is ringing. As if dreams are chasing us. As if time is chasing us. Run, run. It tastes like being alive.",
+    "words": [
+      {
+        "word": "青",
+        "reading": "あお",
+        "meaning": "파랑, 청춘 / blue, youth"
+      },
+      {
+        "word": "舞う",
+        "reading": "まう",
+        "meaning": "춤추다, 흩날리다 / dance, flutter"
+      },
+      {
+        "word": "追いかける",
+        "reading": "おいかける",
+        "meaning": "뒤쫓다 / chase"
+      },
+      {
+        "word": "響く",
+        "reading": "ひびく",
+        "meaning": "울리다 / resound"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 84,
+    "japanese": "人間 は 飛べ ない だ から 飛行 機 と いう 翼 を 作っ た 人間 は 弱い だ から 社会 と いう 絆 を 作っ た 人間 は 未 完成 だ 。 だ から こそ いろんな 課題 に 立ち向かい ながら 理想 の 明日 を 作ろう と する 。 だけ が 目 を 開け て 夢 を 見る 。",
+    "korean": "인간은 날 수 없다. 그러니까 비행기라는 날개를 만들었다. 인간은 약하다. 그러니까 사회라는 유대를 만들었다. 인간은 미완성이다. 그렇기에 여러 가지 과제에 맞서면서 이상의 내일을 만들려고 한다. 인간만이 눈을 뜨고 꿈을 꾼다.",
+    "english": "Humans cannot fly. So we made wings called airplanes. Humans are weak. So we made bonds called society. Humans are incomplete. That's why we face various challenges and try to create an ideal tomorrow. Only humans dream with their eyes open.",
+    "words": [
+      {
+        "word": "翼",
+        "reading": "つばさ",
+        "meaning": "날개 / wings"
+      },
+      {
+        "word": "絆",
+        "reading": "きずな",
+        "meaning": "유대, 인연 / bond"
+      },
+      {
+        "word": "未完成",
+        "reading": "みかんせい",
+        "meaning": "미완성 / incomplete"
+      },
+      {
+        "word": "課題",
+        "reading": "かだい",
+        "meaning": "과제 / challenge, task"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 85,
+    "japanese": "でき ない こと は みんな で やろう 。 逃げ出さ ず に 、 投げ出さ ず に 。 でき ない こと は みんな で やろう 。 道 は 1 つ じゃ ない 。 答え は 1 つ じゃ ない 。 でき ない こと は みんな で やろう 。 あなた が 望む こと を 。 世界 が 望む こと を 。 でき ない こと は みんな で やろう 。 未来 を 生きる 人 の ため に 。",
+    "korean": "할 수 없는 것은 함께 하자. 도망치지 말고, 내던지지 말고. 할 수 없는 것은 함께 하자. 길은 하나가 아니다. 답은 하나가 아니다. 할 수 없는 것은 함께 하자. 당신이 바라는 것을. 세계가 바라는 것을. 할 수 없는 것은 함께 하자. 미래를 사는 사람을 위해.",
+    "english": "Let's do what we can't do together. Without running away, without giving up. Let's do what we can't do together. There isn't just one path. There isn't just one answer. Let's do what we can't do together. What you wish for. What the world wishes for. Let's do what we can't do together. For the people living in the future.",
+    "words": [
+      {
+        "word": "逃げ出す",
+        "reading": "にげだす",
+        "meaning": "도망치다 / run away"
+      },
+      {
+        "word": "投げ出す",
+        "reading": "なげだす",
+        "meaning": "내던지다, 포기하다 / throw away, give up"
+      },
+      {
+        "word": "望む",
+        "reading": "のぞむ",
+        "meaning": "바라다 / wish, desire"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 86,
+    "japanese": "生きる こと 。 それ は いろんな こと と 戦う こと 。 1 番 の 敵 は 諦め ちゃう 自分 の 気持ち 。 今日 の ため に 昨日 が ある 。 そう か 。 ありがとう 。 昨日 の 私",
+    "korean": "산다는 것. 그것은 여러 가지와 싸우는 것. 가장 큰 적은 포기해버리는 자신의 마음. 오늘을 위해 어제가 있다. 그런가. 고마워. 어제의 나.",
+    "english": "Living. That is fighting against many things. The biggest enemy is my own heart that gives up. Yesterday exists for today. I see. Thank you. Me of yesterday.",
+    "words": [
+      {
+        "word": "戦う",
+        "reading": "たたかう",
+        "meaning": "싸우다 / fight"
+      },
+      {
+        "word": "敵",
+        "reading": "てき",
+        "meaning": "적 / enemy"
+      },
+      {
+        "word": "諦める",
+        "reading": "あきらめる",
+        "meaning": "포기하다 / give up"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 87,
+    "japanese": "夢 を 持ち ましょう と 大人 は 言う 。 私 だっ て 思う 。 目標 は 会っ た 方 が 絶対 いい し 。 好き な こと に 夢中 な 人 は 羨まし いっ て 。 で も よく 考え たら 私たち まだ 20 年 と ちょっと しか 生き て ない 。 知ら ない 世界 や しい 出会い だっ て まだまだ たくさん ある 。 何 が 好き で 何 に 向い て いる か 。 そんな こと は ぼんやり し た まま で も ごくごく 自然 な の か も しれ ない 。 私 は 私 の スピード で そう 夢 なんか 走り ながら 見つけ たって いい ん だ 。",
+    "korean": "'꿈을 가집시다'라고 어른은 말한다. 나도 생각한다. 목표는 있는 편이 절대 좋고. 좋아하는 것에 열중인 사람은 부럽다고. 하지만 잘 생각해보면 우리 아직 20년하고 조금밖에 안 살았어. 모르는 세계나 새로운 만남(사랑)도 아직 많이 있어. 무엇을 좋아하고 무엇에 맞는지. 그런 건 멍한 채로도 지극히 자연스러운 건지도 몰라. 나는 나의 스피드로. 그래, 꿈 같은 거 달리면서 찾아도 되는 거야.",
+    "english": "'Let's have a dream,' adults say. I think so too. It's definitely better to have a goal. I envy people who are absorbed in what they like. But thinking about it, we've only lived 20 years and a bit. There are still many unknown worlds and new encounters. What I like and what suits me. Being vague about that might be extremely natural. I go at my own speed. Yes, it's okay to find a dream while running.",
+    "words": [
+      {
+        "word": "夢中",
+        "reading": "むちゅう",
+        "meaning": "열중함, 푹 빠짐 / absorbed"
+      },
+      {
+        "word": "羨ましい",
+        "reading": "うらやましい",
+        "meaning": "부럽다 / envious"
+      },
+      {
+        "word": "自然",
+        "reading": "しぜん",
+        "meaning": "자연스러움 / natural"
+      },
+      {
+        "word": "走る",
+        "reading": "はしる",
+        "meaning": "달리다 / run"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 88,
+    "japanese": "初めて の バイト は マクドナルド でし た 。 初めて 見知ら ぬ 人 に 笑顔 を 向け た の も 初めて 家族 以外 の 大人 に 褒め られ た の も 初めて 世代 を 超え た 仲間 が でき た の も 初めて 働い た マクドナルド だっ た 。 あの 時 手 に 入れ た もの は 今 も 生き て いる 。 この 経験 は 一生 も 。",
+    "korean": "첫 아르바이트는 맥도날드였습니다. 처음으로 낯선 사람에게 미소를 지은 것도, 처음으로 가족 이외의 어른에게 칭찬받은 것도, 처음으로 세대를 넘은 동료가 생긴 것도, 처음으로 일한 맥도날드였다. 그때 손에 넣은 것은 지금도 살아있다. 이 경험은 평생의 것.",
+    "english": "My first part-time job was at McDonald's. The first time I smiled at a stranger, the first time I was praised by an adult other than family, the first time I made colleagues across generations, it was all at McDonald's where I first worked. What I gained then is still alive now. This experience is for a lifetime.",
+    "words": [
+      {
+        "word": "見知らぬ",
+        "reading": "みしらぬ",
+        "meaning": "낯선 / unknown, stranger"
+      },
+      {
+        "word": "褒める",
+        "reading": "ほめる",
+        "meaning": "칭찬하다 / praise"
+      },
+      {
+        "word": "仲間",
+        "reading": "なかま",
+        "meaning": "동료 / colleague"
+      },
+      {
+        "word": "経験",
+        "reading": "けいけん",
+        "meaning": "경험 / experience"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 89,
+    "japanese": "あの 頃 君 は まだ 迷っ て い た 。 友達 と もっと 遊び たかっ た 。 お母さん と お父さん に もっと 甘え たかっ た 。 何 度 も 間違え て 眠たく て やめ たい と 呟い た 時 も あっ た 。 妥協 に 飲み込ま れ そう だっ た 。 で も 少し ずつ 君 は 諦め なく なっ て いっ た 。 それ で も 諦め なかっ た 経験 は 一生 誰 に も 奪わ れ ない 。",
+    "korean": "그 무렵 너는 아직 헤매고 있었다. 친구들과 더 놀고 싶었다. 엄마랑 아빠한테 더 응석 부리고 싶었다. 몇 번이나 틀리고 졸려서 그만두고 싶다고 중얼거린 적도 있었다. 타협에 삼켜질 뻔했다. 하지만 조금씩 너는 포기하지 않게 되어 갔다. 그래도 포기하지 않았던 경험은 평생 누구에게도 뺏기지 않는다.",
+    "english": "Back then, you were still lost. Wanted to play more with friends. Wanted to be pampered more by mom and dad. Made mistakes many times, was sleepy, and even muttered about wanting to quit. Almost swallowed by compromise. But little by little, you stopped giving up. The experience of not giving up even then cannot be taken away by anyone for a lifetime.",
+    "words": [
+      {
+        "word": "甘える",
+        "reading": "あまえる",
+        "meaning": "응석 부리다 / depend on, behave like a baby"
+      },
+      {
+        "word": "妥協",
+        "reading": "だきょう",
+        "meaning": "타협 / compromise"
+      },
+      {
+        "word": "飲み込む",
+        "reading": "のみこむ",
+        "meaning": "삼키다 / swallow"
+      },
+      {
+        "word": "奪う",
+        "reading": "うばう",
+        "meaning": "빼앗다 / steal, take away"
+      }
+    ],
+    "category": "인생"
+  },
+  {
+    "id": 90,
+    "japanese": "緊張 も 不安 も 君 が 頑張っ て き た 証 。 今日 まで 君 が 真剣 に 向き合っ て き た 1 日 1 日 が 今 胸 の 鼓動 に なっ て いる ん だ と 思う 。 だ から 大丈夫 。 大きく 深呼吸 し て 。",
+    "korean": "긴장도 불안도 네가 노력해 온 증거. 오늘까지 네가 진지하게 마주해 온 하루하루가 지금 가슴의 고동이 되어 있는 거라고 생각해. 그러니까 괜찮아. 크게 심호흡해.",
+    "english": "Nervousness and anxiety are proof that you have worked hard. I think the days you faced seriously until today have become the beating of your heart now. So it's okay. Take a deep breath.",
+    "words": [
+      {
+        "word": "緊張",
+        "reading": "きんちょう",
+        "meaning": "긴장 / nervousness"
+      },
+      {
+        "word": "不安",
+        "reading": "ふあん",
+        "meaning": "불안 / anxiety"
+      },
+      {
+        "word": "証",
+        "reading": "あかし",
+        "meaning": "증거 / proof"
+      },
+      {
+        "word": "鼓動",
+        "reading": "こどう",
+        "meaning": "고동 / heartbeat"
+      }
+    ],
+    "category": "사랑"
+  },
+  {
+    "id": 91,
+    "japanese": "人生 に 受験 と いう 季節 が あっ て 良かっ た と 思える 時 が 必ず 来る よ 。 明日 の 君 の ため に 今 の 君 が 頑張ろう 。 明日 の 君 は きっと いい やつ だ 。",
+    "korean": "인생에 수험이라는 계절이 있어서 다행이라고 생각할 때가 반드시 온다. 내일의 너를 위해 지금의 네가 힘내자. 내일의 너는 분명 좋은 녀석이다.",
+    "english": "The time will surely come when you think it was good to have the season called entrance exams in life. Let's do our best now for the you of tomorrow. The you of tomorrow is surely a good guy.",
+    "words": [
+      {
+        "word": "受験",
+        "reading": "じゅけん",
+        "meaning": "수험 / taking an exam"
+      },
+      {
+        "word": "季節",
+        "reading": "きせつ",
+        "meaning": "계절 / season"
+      },
+      {
+        "word": "必ず",
+        "reading": "かならず",
+        "meaning": "반드시 / surely"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 92,
+    "japanese": "自分 の 本音 を 1番 聞い た の も 自分 。 自分 の 試練 を 1番 見 て い た の も 自分 。 自分 の 努力 を 1番 知っ て い た の も 自分 。 自分 を 1番 応援 し た の は 紛れ も なく 自分 だ 。",
+    "korean": "자신의 속마음을 가장 많이 들은 것도 자신. 자신의 시련을 가장 많이 지켜본 것도 자신. 자신의 노력을 가장 많이 알고 있던 것도 자신. 자신을 가장 많이 응원한 것은 틀림없이 자신이다.",
+    "english": "The one who heard your true feelings the most was yourself. The one who watched your trials the most was yourself. The one who knew your efforts the most was yourself. The one who cheered for you the most was undoubtedly yourself.",
+    "words": [
+      {
+        "word": "本音",
+        "reading": "ほんね",
+        "meaning": "속마음, 본심 / true feelings"
+      },
+      {
+        "word": "試練",
+        "reading": "しれん",
+        "meaning": "시련 / trial, ordeal"
+      },
+      {
+        "word": "紛れもなく",
+        "reading": "まぎれもなく",
+        "meaning": "틀림없이 / undoubtedly"
+      },
+      {
+        "word": "応援",
+        "reading": "おうえん",
+        "meaning": "응원 / convert/cheer"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 93,
+    "japanese": "次 の 私 が 待ちしい 。 時間 は いつ も 未来 に 向かう 。 今 この 瞬間 を 力いっぱい 生きる こと が 新しい 自分 を 作っ て いく 。 1 秒 を 積み重ねる よう に 1 歩 ずつ 次 の 私 が 待ち同しい",
+    "korean": "다음의 내가 기다려진다. 시간은 언제나 미래로 향한다. 지금 이 순간을 힘껏 사는 것이 새로운 나를 만들어 간다. 1초를 쌓아 올리듯 한 걸음씩 다음의 내가 기다려진다.",
+    "english": "I can't wait for the next me. Time always heads to the future. Living this moment with all my might creates a new me. Like stacking one second at a time, step by step, I look forward to the next me.",
+    "words": [
+      {
+        "word": "待ち遠しい",
+        "reading": "まちどおしい",
+        "meaning": "기다려지다 / can't wait"
+      },
+      {
+        "word": "瞬間",
+        "reading": "しゅんかん",
+        "meaning": "순간 / moment"
+      },
+      {
+        "word": "力いっぱい",
+        "reading": "ちからいっぱい",
+        "meaning": "힘껏 / with all one's might"
+      },
+      {
+        "word": "積み重ねる",
+        "reading": "つみかさねる",
+        "meaning": "쌓아 올리다 / stack up"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 94,
+    "japanese": "道 を 作ろう 。 世界 が 生まれ た 時 、 そこ に 道 は なかっ た はず だ 。 たくさん の 人 が 歩け ば その 足跡 は やがて 道 に なる 。 たくさん の 挫折 と たくさん の 服 と たくさん の 覚悟 と たくさん の 夢中 が たくさん の 足跡 に なっ て それ は いつ か 道 に なる 。 道 を 作ろう 。",
+    "korean": "길을 만들자. 세계가 태어났을 때, 거기에 길은 없었을 것이다. 많은 사람이 걸으면 그 발자국은 이윽고 길이 된다. 많은 좌절과 많은 행복과 많은 각오와 많은 열중이 많은 발자국이 되어 그것은 언젠가 길이 된다. 길을 만들자.",
+    "english": "Let's make a path. When the world was born, there must have been no paths there. If many people walk, those footprints eventually become a path. Many setbacks, many happinesses, many resolutions, and many passions become many footprints, and someday they become a path. Let's make a path.",
+    "words": [
+      {
+        "word": "道",
+        "reading": "みち",
+        "meaning": "길 / path, road"
+      },
+      {
+        "word": "足跡",
+        "reading": "あしあと",
+        "meaning": "발자국 / footprint"
+      },
+      {
+        "word": "挫折",
+        "reading": "ざせつ",
+        "meaning": "좌절 / setback"
+      },
+      {
+        "word": "覚悟",
+        "reading": "かくご",
+        "meaning": "각오 / resolution"
+      }
+    ],
+    "category": "사회"
+  },
+  {
+    "id": 95,
+    "japanese": "未来 の 声 を 聞け 。 未来 は 突然 現れる わけ じゃ ない 。 みんな の 思い や 願い が 少し ずつ 形 に なる こと で 今 まで と は 違う 世界 に なっ て いく 。 だ から 私たち は いつ も 耳 を 済まし て いる 。 半年 先 10 年 先 、 50 年 先 時 に は もっと 先 の 未来 から の 声 に",
+    "korean": "미래의 소리를 들어라. 미래는 갑자기 나타나는 게 아니다. 모두의 마음과 소원이 조금씩 형태가 됨으로써 지금까지와는 다른 세계가 되어 간다. 그러니까 우리는 언제나 귀를 기울이고 있다. 반년 뒤, 10년 뒤, 50년 뒤, 때로는 더 앞선 미래로부터의 목소리에.",
+    "english": "Listen to the voice of the future. The future doesn't appear suddenly. As everyone's thoughts and wishes take shape little by little, it becomes a world different from before. That's why we are always listening. To the voices from half a year later, 10 years later, 50 years later, and sometimes from further ahead.",
+    "words": [
+      {
+        "word": "未来",
+        "reading": "みらい",
+        "meaning": "미래 / future"
+      },
+      {
+        "word": "願い",
+        "reading": "ねがい",
+        "meaning": "소원 / wish"
+      },
+      {
+        "word": "耳を澄ます",
+        "reading": "みみをすます",
+        "meaning": "귀를 기울이다 / listen carefully"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 96,
+    "japanese": "ワクワク が 未来 を 作る 。 好奇心 が 世界 を 変える 。 次 の 常識 は 非常識 から 生まれる 。",
+    "korean": "설렘이 미래를 만든다. 호기심이 세상을 바꾼다. 다음 상식은 비상식에서 태어난다.",
+    "english": "Excitement creates the future. Curiosity changes the world. The next common sense is born from nonsense (extraordinary).",
+    "words": [
+      {
+        "word": "ワクワク",
+        "reading": "わくわく",
+        "meaning": "두근두근, 설렘 / excitement"
+      },
+      {
+        "word": "好奇心",
+        "reading": "こうきしん",
+        "meaning": "호기심 / curiosity"
+      },
+      {
+        "word": "常識",
+        "reading": "じょうしき",
+        "meaning": "상식 / common sense"
+      },
+      {
+        "word": "非常識",
+        "reading": "ひじょうしき",
+        "meaning": "비상식 / lack of common sense, extraordinary"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 97,
+    "japanese": "まだ 何 も 決まっ て は い ない 。 動け 、 ぶつかれ 。 不 可能 を 乗り越える ほど 君 は もっと うまく 、 もっと 強く なれる はず 。 挑み 続ける 限り 負け は ない 。 明日 後 、 7 年 後 。 どんな 君 に なる か は 今日 の 君 が 決める 。",
+    "korean": "아직 아무것도 정해지지 않았다. 움직여라, 부딪쳐라. 불가능을 넘어설수록 너는 더 잘, 더 강해질 수 있을 거야. 계속 도전하는 한 패배는 없다. 내일 후, 7년 후. 어떤 네가 될지는 오늘의 네가 정한다.",
+    "english": "Nothing is decided yet. Move, crash. The more you overcome the impossible, the better and stronger you can become. As long as you keep challenging, there is no defeat. After tomorrow, 7 years later. Who you become is decided by you today.",
+    "words": [
+      {
+        "word": "決まる",
+        "reading": "きまる",
+        "meaning": "정해지다 / be decided"
+      },
+      {
+        "word": "挑む",
+        "reading": "いどむ",
+        "meaning": "도전하다 / challenge"
+      },
+      {
+        "word": "負け",
+        "reading": "まけ",
+        "meaning": "패배 / defeat"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 98,
+    "japanese": "羨ましい こと に まだ 人生 を 選べる 。 夢 は 大きい 方 が いい 。 今 なら まだ どんな 大人 に だっ て なれる の です 。 枠 なんか 作っ て しまっ たら もったい ない 。 やれ ば できる と 信じる こと が その 第 一歩 だ と 思い ます 。",
+    "korean": "부럽게도 아직 인생을 고를 수 있다. 꿈은 큰 편이 좋다. 지금이라면 아직 어떤 어른이라도 될 수 있는 것입니다. 틀 같은 거 만들어 버리면 아깝다. 하면 된다고 믿는 것이 그 첫걸음이라고 생각합니다.",
+    "english": "Enviably, you can still choose your life. Dreams should be big. If it's now, you can still become any kind of adult. It's a waste to make a mold. I think believing that you can do it if you try is the first step.",
+    "words": [
+      {
+        "word": "羨ましい",
+        "reading": "うらやましい",
+        "meaning": "부럽다 / envious"
+      },
+      {
+        "word": "選ぶ",
+        "reading": "えらぶ",
+        "meaning": "고르다, 선택하다 / choose"
+      },
+      {
+        "word": "勿体ない",
+        "reading": "もったいない",
+        "meaning": "아깝다 / wasteful"
+      },
+      {
+        "word": "第一歩",
+        "reading": "だいいっぽ",
+        "meaning": "첫걸음 / first step"
+      }
+    ],
+    "category": "일/성장"
+  },
+  {
+    "id": 99,
+    "japanese": "うまく いか ない 日 が ある 。 ヘトヘト に なる 日 が ある 。 恥 を 書く 日 が ある 。 腹 が 立つ 日 だっ て ある けれど それ は 全部 一生 懸命 今日 を 生き て い た 証 です 。",
+    "korean": "잘 안 풀리는 날이 있다. 녹초가 되는 날이 있다. 창피를 당하는 날이 있다. 화가 나는 날도 있지만 그건 전부 열심히 오늘을 살았다는 증거입니다.",
+    "english": "There are days when things don't go well. Days when you get exhausted. Days when you get embarrassed. Days when you get angry, but that is all proof that you lived today with all your might.",
+    "words": [
+      {
+        "word": "ヘトヘト",
+        "reading": "へとへと",
+        "meaning": "녹초가 됨 / exhausted"
+      },
+      {
+        "word": "恥",
+        "reading": "はじ",
+        "meaning": "부끄러움 / shame"
+      },
+      {
+        "word": "腹が立つ",
+        "reading": "はらがたつ",
+        "meaning": "화가 나다 / get angry"
+      },
+      {
+        "word": "一生懸命",
+        "reading": "いっしょうけんめい",
+        "meaning": "열심히 / hard (working hard)"
+      }
+    ],
+    "category": "인생"
+  },
+  {
+    "id": 100,
+    "japanese": "行く ぜ 。 絶対 に 引か なかっ た 夏 。 負け たく なかっ た 夏 。 走り 続け た 夏 。 夏 が 終わっ て も 奴 ら が 待っ てる 。 いつ も の コート が 待っ てる 。 さあ 、 練習 だ 。",
+    "korean": "가자. 절대 물러서지 않았던 여름. 지고 싶지 않았던 여름. 계속 달렸던 여름. 여름이 끝나도 녀석들이 기다리고 있어. 평소의 코트가 기다리고 있어. 자, 연습이다.",
+    "english": "Let's go. The summer we never backed down. The summer we didn't want to lose. The summer we kept running. Even if summer ends, those guys are waiting. The usual court is waiting. Come on, it's practice.",
+    "words": [
+      {
+        "word": "引く",
+        "reading": "ひく",
+        "meaning": "물러서다 / retreat, pull"
+      },
+      {
+        "word": "夏",
+        "reading": "なつ",
+        "meaning": "여름 / summer"
+      },
+      {
+        "word": "練習",
+        "reading": "れんしゅう",
+        "meaning": "연습 / practice"
+      }
+    ],
+    "category": "감성"
+  }
+]
