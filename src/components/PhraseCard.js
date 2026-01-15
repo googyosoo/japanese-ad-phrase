@@ -142,25 +142,27 @@ function PhraseCard({ phrase }) {
                     </button>
                 </div>
 
-                <div className="card-image-container">
-                    {!imgError ? (
-                        <img
-                            src={getImageSrc()}
-                            alt={`Phrase ${phrase.id}`}
-                            className="card-image"
-                            onError={() => setImgError(true)}
-                        />
-                    ) : (
-                        <img
-                            src={getBackupImage()}
-                            alt={`Phrase ${phrase.id}`}
-                            className="card-image"
-                            onError={(e) => {
-                                e.target.style.display = 'none';
-                            }}
-                        />
-                    )}
-                </div>
+                <Link href={`/phrase/${phrase.id}`} style={{ display: 'block', textDecoration: 'none' }}>
+                    <div className="card-image-container">
+                        {!imgError ? (
+                            <img
+                                src={getImageSrc()}
+                                alt={`Phrase ${phrase.id}`}
+                                className="card-image"
+                                onError={() => setImgError(true)}
+                            />
+                        ) : (
+                            <img
+                                src={getBackupImage()}
+                                alt={`Phrase ${phrase.id}`}
+                                className="card-image"
+                                onError={(e) => {
+                                    e.target.style.display = 'none';
+                                }}
+                            />
+                        )}
+                    </div>
+                </Link>
 
                 <p className="japanese-text" style={{ marginTop: '0.5rem' }}>{phrase.japanese}</p>
 
