@@ -1,8 +1,8 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
-import { SpeakerWaveIcon, StarIcon as StarIconSolid } from '@heroicons/react/24/solid';
+import { SpeakerWaveIcon, StarIcon as StarIconSolid, StopIcon } from '@heroicons/react/24/solid';
 import { StarIcon as StarIconOutline } from '@heroicons/react/24/outline';
 
 const imageThemes = {}; // Themes are managed on the parent or not needed here directly for now
@@ -15,6 +15,9 @@ function PhraseCard({ phrase }) {
     const [showMemo, setShowMemo] = useState(false);
     const [memo, setMemo] = useState('');
 
+    // Audio ref
+    const audioRef = useRef(null);
+
     useEffect(() => {
         // Load favorites from localStorage
         const favorites = JSON.parse(localStorage.getItem('favorites') || '{}');
@@ -22,6 +25,21 @@ function PhraseCard({ phrase }) {
             setIsFavorite(true);
             setMemo(favorites[phrase.id].memo || '');
         }
+
+        // Initialize Audio object
+        audioRef.current = new Audio(`/audio/${phrase.id}.mp3`);
+        audioRef.current.onended = () => setIsSpeaking(false);
+        audioRef.current.onerror = () => {
+            console.error(`Audio file not found for phrase ${phrase.id}`);
+            setIsSpeaking(false);
+        };
+
+        return () => {
+            if (audioRef.current) {
+                audioRef.current.pause();
+                audioRef.current = null;
+            }
+        };
     }, [phrase.id]);
 
     const toggleFavorite = (e) => {
@@ -57,26 +75,22 @@ function PhraseCard({ phrase }) {
 
     const speak = (e) => {
         e.stopPropagation();
-        window.speechSynthesis.cancel();
 
-        const utterance = new SpeechSynthesisUtterance(phrase.japanese);
-        utterance.lang = 'ja-JP';
-        utterance.rate = 0.85;
-        utterance.pitch = 1.0;
-
-        const voices = window.speechSynthesis.getVoices();
-        const japaneseVoice = voices.find(voice =>
-            voice.lang.includes('ja') || voice.lang.includes('JP')
-        );
-        if (japaneseVoice) {
-            utterance.voice = japaneseVoice;
+        if (isSpeaking) {
+            if (audioRef.current) {
+                audioRef.current.pause();
+                audioRef.current.currentTime = 0;
+            }
+            setIsSpeaking(false);
+        } else {
+            if (audioRef.current) {
+                audioRef.current.play().catch(e => {
+                    console.error("Audio play failed", e);
+                    setIsSpeaking(false);
+                });
+                setIsSpeaking(true);
+            }
         }
-
-        utterance.onstart = () => setIsSpeaking(true);
-        utterance.onend = () => setIsSpeaking(false);
-        utterance.onerror = () => setIsSpeaking(false);
-
-        window.speechSynthesis.speak(utterance);
     };
 
     const getImageSrc = () => {
@@ -106,8 +120,9 @@ function PhraseCard({ phrase }) {
                         fontSize: '0.8rem',
                         padding: '2px 8px',
                         borderRadius: '12px',
-                        background: 'rgba(255, 255, 255, 0.8)',
-                        color: '#666',
+                        background: 'rgba(0, 0, 0, 0.6)',
+                        backdropFilter: 'blur(4px)',
+                        color: 'white',
                         boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
                     }}>
                         #{phrase.id} {phrase.category}
@@ -116,7 +131,7 @@ function PhraseCard({ phrase }) {
                         background: 'none',
                         border: 'none',
                         cursor: 'pointer',
-                        color: isFavorite ? '#FFD700' : '#ccc',
+                        color: isFavorite ? '#FFD700' : '#94a3b8',
                         padding: '4px'
                     }}>
                         {isFavorite ? (
@@ -147,7 +162,7 @@ function PhraseCard({ phrase }) {
                     )}
                 </div>
 
-                <p className="japanese-text" style={{ marginTop: '2.5rem' }}>{phrase.japanese}</p>
+                <p className="japanese-text" style={{ marginTop: '0.5rem' }}>{phrase.japanese}</p>
 
                 <div className="action-row">
                     <div className="translation-buttons">
@@ -176,11 +191,15 @@ function PhraseCard({ phrase }) {
                     </div>
 
                     <button
-                        className={`tts-btn ${isSpeaking ? 'speaking' : ''}`}
+                        className={`tts-btn ${isSpeaking ? 'playing' : ''}`}
                         onClick={speak}
                         title="듣기"
                     >
-                        <SpeakerWaveIcon style={{ width: '20px', height: '20px' }} />
+                        {isSpeaking ? (
+                            <StopIcon style={{ width: '20px', height: '20px' }} />
+                        ) : (
+                            <SpeakerWaveIcon style={{ width: '20px', height: '20px' }} />
+                        )}
                     </button>
                 </div>
 
@@ -206,7 +225,9 @@ function PhraseCard({ phrase }) {
                                 width: '100%',
                                 padding: '8px',
                                 borderRadius: '8px',
-                                border: '1px solid #ddd',
+                                border: '1px solid var(--border-glass)',
+                                background: 'rgba(0,0,0,0.3)',
+                                color: 'var(--color-text-main)',
                                 fontSize: '0.9rem',
                                 resize: 'vertical',
                                 minHeight: '60px',

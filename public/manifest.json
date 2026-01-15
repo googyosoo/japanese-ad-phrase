@@ -1,0 +1,21 @@
+{
+    "name": "일본어 광고 카피문구",
+    "short_name": "일본어문구",
+    "description": "100개의 아름다운 일본 광고 카피문구와 함께 일본어를 배워보세요.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f0f2f5",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
